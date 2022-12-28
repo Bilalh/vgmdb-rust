@@ -16,7 +16,7 @@ jobs:
           profile: minimal
           toolchain: stable
       - name: ensure we are not in detached-head state
-        run: git switch -c v${{ gihub.ref_name }}
+        run: git switch -c "v${{ gihub.ref_name }}"
       - name: Publish vgmdb crate to crates.io
         uses: katyo/publish-crates@v1
         with:
