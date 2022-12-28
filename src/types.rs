@@ -23,7 +23,7 @@ mod tests {
     #[test_case("data/album_81114.json")]
     fn test_decoding_albums_from_json(filename: &str) -> () {
         let encoded = std::fs::read_to_string(filename).unwrap();
-        serde_json::from_str::<albums::Root>(&encoded).unwrap();
+        serde_json::from_str::<albums::Album>(&encoded).unwrap();
     }
 
     // Bugs found by running it overs all my albums
@@ -32,6 +32,6 @@ mod tests {
     #[test_case("data/album_25985.json")]
     fn test_vaildation_set_decoding_albums_from_json(filename: &str) -> () {
         let encoded = std::fs::read_to_string(filename).unwrap();
-        serde_json::from_str::<albums::Root>(&encoded).unwrap();
+        serde_json::from_str::<albums::Album>(&encoded).unwrap();
     }
 }

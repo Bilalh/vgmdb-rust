@@ -2,7 +2,7 @@ use anyhow::{bail, Result};
 use reqwest;
 
 use reqwest::header::{ACCEPT, CONTENT_TYPE};
-use vgmdb::types::albums::Root;
+use vgmdb::types::albums::Album;
 
 #[tokio::main]
 async fn main() -> Result<()> {
@@ -23,7 +23,7 @@ async fn main() -> Result<()> {
             response.status()
         ));
     }
-    let data = response.json::<Root>().await?;
+    let data = response.json::<Album>().await?;
     dbg!(data);
 
     Ok(())

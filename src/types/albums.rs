@@ -4,7 +4,7 @@ use serde_json::Value;
 
 #[derive(Default, Debug, Clone, PartialEq, Serialize, Deserialize)]
 #[serde(rename_all = "camelCase")]
-pub struct Root {
+pub struct Album {
     pub arrangers: Vec<Arranger>,
     pub barcode: Option<String>,
     pub catalog: String,
