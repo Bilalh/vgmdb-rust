@@ -1,10 +1,10 @@
-use anyhow::{bail, Result};
 use reqwest;
 
 use reqwest::header::{ACCEPT, CONTENT_TYPE};
 
-use crate::types::albums::Album;
+use crate::types::{albums::Album, VgmdbError};
 
+/// Rust Client for vgmdb
 pub struct VgmdbClient {
     client: reqwest::Client,
 }
@@ -16,8 +16,9 @@ impl VgmdbClient {
         }
     }
 
-    pub async fn get_album(&self, album_id: u32) -> Result<Album> {
+    pub async fn get_album(&self, album_id: u32) -> Result<Album, VgmdbError> {
         let url = format!("https://vgmdb.info/album/{album_id}?format=json");
+        log::info!("Sending request to {url}");
 
         let response = self
             .client
@@ -28,14 +29,13 @@ impl VgmdbClient {
             .await?;
 
         if reqwest::StatusCode::OK != response.status() {
-            bail!(format!(
-                "Album request to {url} failed with code {}",
-                response.status()
-            ));
+            return Err(VgmdbError::InvaildStatusCode(response.status()));
         }
 
-        dbg!(url);
-        let data = response.json::<Album>().await?;
+        let data = response
+            .json::<Album>()
+            .await
+            .map_err(|_| VgmdbError::InvaildData)?;
 
         Ok(data)
     }

@@ -1,4 +1,8 @@
 pub mod albums;
+
+mod errors;
+pub use errors::*;
+
 // We generated most of the structs using the follow based on the json files in data
 // https://transform.tools/json-to-rust-serde
 // Needed to edit it a bit because of overfitting.
