@@ -167,10 +167,12 @@ pub struct SpecialPrice {
 #[derive(Default, Debug, Clone, PartialEq, Serialize, Deserialize)]
 #[serde(rename_all = "camelCase")]
 pub struct Names {
-    #[serde(alias = "English", alias = "en")]
+    #[serde(alias = "English", alias = "en", alias = "English (Revival Disc)")]
     pub english: Option<String>,
     #[serde(alias = "Japanese", alias = "jp")]
     pub japenese: Option<String>,
-    #[serde(alias = "ja-latn")]
+    #[serde(alias = "ja-latn", alias = "Romaji")]
     pub japenese_latin: Option<String>,
+    #[serde(alias = "Latin")]
+    pub latin: Option<String>,
 }
