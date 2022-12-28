@@ -1,0 +1,575 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/341",
+            "names": {
+                "en": "Yoshiyuki Ito",
+                "ja": "伊藤善之"
+            }
+        },
+        {
+            "link": "artist/40",
+            "names": {
+                "en": "Masumi Ito",
+                "ja": "伊藤真澄"
+            }
+        }
+    ],
+    "barcode": "4988009294025",
+    "catalog": "SRCL-2940~1",
+    "categories": [
+        "Game"
+    ],
+    "category": "Game",
+    "classification": "Original Soundtrack, Arrangement, Drama",
+    "composers": [
+        {
+            "link": "artist/190",
+            "names": {
+                "en": "Kohji Kondo"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/58/885/885-1270189622.png",
+            "medium": "https://medium-media.vgm.io/albums/58/885/885-1270189622.png",
+            "name": "Front",
+            "thumb": "https://thumb-media.vgm.io/albums/58/885/885-1270189622.png"
+        },
+        {
+            "full": "https://media.vgm.io/albums/58/885/885-1270186628.png",
+            "medium": "https://medium-media.vgm.io/albums/58/885/885-1270186628.png",
+            "name": "Back",
+            "thumb": "https://thumb-media.vgm.io/albums/58/885/885-1270186628.png"
+        },
+        {
+            "full": "https://media.vgm.io/albums/58/885/885-1270189059.png",
+            "medium": "https://medium-media.vgm.io/albums/58/885/885-1270189059.png",
+            "name": "Booklet Front & Back",
+            "thumb": "https://thumb-media.vgm.io/albums/58/885/885-1270189059.png"
+        },
+        {
+            "full": "https://media.vgm.io/albums/58/885/885-1270188508.png",
+            "medium": "https://medium-media.vgm.io/albums/58/885/885-1270188508.png",
+            "name": "Disc 1",
+            "thumb": "https://thumb-media.vgm.io/albums/58/885/885-1270188508.png"
+        },
+        {
+            "full": "https://media.vgm.io/albums/58/885/885-1270186513.png",
+            "medium": "https://medium-media.vgm.io/albums/58/885/885-1270186513.png",
+            "name": "Disc 2",
+            "thumb": "https://thumb-media.vgm.io/albums/58/885/885-1270186513.png"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "44:14",
+            "name": "Disc 1 [SRCL-2940]",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "Overworld",
+                        "Japanese": "表の地上"
+                    },
+                    "track_length": "2:54"
+                },
+                {
+                    "names": {
+                        "English": "Theme of the Guessing-Game House",
+                        "Japanese": "当てもの屋のテーマ"
+                    },
+                    "track_length": "3:26"
+                },
+                {
+                    "names": {
+                        "English": "Sanctuary Dungeon",
+                        "Japanese": "神殿ダンジョン"
+                    },
+                    "track_length": "3:24"
+                },
+                {
+                    "names": {
+                        "English": "Hyrule Castle",
+                        "Japanese": "ハイラル城"
+                    },
+                    "track_length": "3:04"
+                },
+                {
+                    "names": {
+                        "English": "Forest Theme",
+                        "Japanese": "森のテーマ"
+                    },
+                    "track_length": "3:43"
+                },
+                {
+                    "names": {
+                        "English": "Dark Overworld",
+                        "Japanese": "裏の地上"
+                    },
+                    "track_length": "2:51"
+                },
+                {
+                    "names": {
+                        "English": "The Goddess Appears",
+                        "Japanese": "女神登場"
+                    },
+                    "track_length": "4:15"
+                },
+                {
+                    "names": {
+                        "English": "Kakariko Village",
+                        "Japanese": "カカリコ村"
+                    },
+                    "track_length": "3:25"
+                },
+                {
+                    "names": {
+                        "English": "Sound Drama \"Two People: Introductory Chapter\"",
+                        "Japanese": "サウンド・ドラマ「二人の序章」"
+                    },
+                    "track_length": "17:12"
+                }
+            ]
+        },
+        {
+            "disc_length": "54:32",
+            "name": "Disc 2 [SRCL-2941]",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "Title",
+                        "Japanese": "タイトル"
+                    },
+                    "track_length": "3:00"
+                },
+                {
+                    "names": {
+                        "English": "Overworld",
+                        "Japanese": "地上"
+                    },
+                    "track_length": "1:45"
+                },
+                {
+                    "names": {
+                        "English": "Underground",
+                        "Japanese": "地下"
+                    },
+                    "track_length": "1:05"
+                },
+                {
+                    "names": {
+                        "English": "Death Mountain",
+                        "Japanese": "デスマウンテン"
+                    },
+                    "track_length": "1:38"
+                },
+                {
+                    "names": {
+                        "English": "Treasure Chest Catch Fanfare",
+                        "Japanese": "宝物キャッチファンファーレ"
+                    },
+                    "track_length": "0:06"
+                },
+                {
+                    "names": {
+                        "English": "Triforce Catch Fanfare",
+                        "Japanese": "トライフォースキャッチファンファーレ"
+                    },
+                    "track_length": "0:11"
+                },
+                {
+                    "names": {
+                        "English": "When Ganon Appears and is Defeated Fanfare",
+                        "Japanese": "ガノン登場及び倒した時のファンファーレ"
+                    },
+                    "track_length": "0:07"
+                },
+                {
+                    "names": {
+                        "English": "When Zelda is Rescued Fanfare",
+                        "Japanese": "ゼルダを助けた時のファンファーレ"
+                    },
+                    "track_length": "0:09"
+                },
+                {
+                    "names": {
+                        "English": "Game Over",
+                        "Japanese": "ゲームオーバー"
+                    },
+                    "track_length": "0:39"
+                },
+                {
+                    "names": {
+                        "English": "Ending",
+                        "Japanese": "エンディング"
+                    },
+                    "track_length": "2:29"
+                },
+                {
+                    "names": {
+                        "English": "Title",
+                        "Japanese": "タイトル"
+                    },
+                    "track_length": "0:20"
+                },
+                {
+                    "names": {
+                        "English": "Opening Demo",
+                        "Japanese": "オープニングデモ"
+                    },
+                    "track_length": "2:03"
+                },
+                {
+                    "names": {
+                        "English": "Time of the Falling Rain",
+                        "Japanese": "雨降りの時"
+                    },
+                    "track_length": "1:10"
+                },
+                {
+                    "names": {
+                        "English": "Overworld",
+                        "Japanese": "表の地上"
+                    },
+                    "track_length": "1:07"
+                },
+                {
+                    "names": {
+                        "English": "Kakariko Village",
+                        "Japanese": "カカリコ村"
+                    },
+                    "track_length": "2:12"
+                },
+                {
+                    "names": {
+                        "English": "Forest",
+                        "Japanese": "森"
+                    },
+                    "track_length": "0:57"
+                },
+                {
+                    "names": {
+                        "English": "Master Sword Demo",
+                        "Japanese": "マスターソードのデモ"
+                    },
+                    "track_length": "0:15"
+                },
+                {
+                    "names": {
+                        "English": "Turned Into a Rabbit!",
+                        "Japanese": "ウサギになった時"
+                    },
+                    "track_length": "0:57"
+                },
+                {
+                    "names": {
+                        "English": "The Soldiers of Kakariko Village",
+                        "Japanese": "カカリコ村の兵士"
+                    },
+                    "track_length": "0:44"
+                },
+                {
+                    "names": {
+                        "English": "Guessing-Game House",
+                        "Japanese": "当てもの屋"
+                    },
+                    "track_length": "0:53"
+                },
+                {
+                    "names": {
+                        "English": "Select Screen",
+                        "Japanese": "セレクト面"
+                    },
+                    "track_length": "0:55"
+                },
+                {
+                    "names": {
+                        "English": "Dark World",
+                        "Japanese": "裏の地上"
+                    },
+                    "track_length": "2:23"
+                },
+                {
+                    "names": {
+                        "English": "Dark Mountain Forest",
+                        "Japanese": "裏の山の森"
+                    },
+                    "track_length": "1:52"
+                },
+                {
+                    "names": {
+                        "English": "Hyrule Castle",
+                        "Japanese": "ハイラル城"
+                    },
+                    "track_length": "2:55"
+                },
+                {
+                    "names": {
+                        "English": "Sanctuary Dungeon",
+                        "Japanese": "神殿ダンジョン"
+                    },
+                    "track_length": "2:03"
+                },
+                {
+                    "names": {
+                        "English": "Cave",
+                        "Japanese": "洞窟"
+                    },
+                    "track_length": "1:01"
+                },
+                {
+                    "names": {
+                        "English": "Church",
+                        "Japanese": "教会"
+                    },
+                    "track_length": "1:35"
+                },
+                {
+                    "names": {
+                        "English": "BOSS~BGM~",
+                        "Japanese": "BOSS~BGM~"
+                    },
+                    "track_length": "0:37"
+                },
+                {
+                    "names": {
+                        "English": "BOSS Clear Fanfare",
+                        "Japanese": "BOSSクリアファンファーレ"
+                    },
+                    "track_length": "0:14"
+                },
+                {
+                    "names": {
+                        "English": "Dark World Dungeon",
+                        "Japanese": "裏ダンジョン"
+                    },
+                    "track_length": "1:44"
+                },
+                {
+                    "names": {
+                        "English": "Fortune-Telling House",
+                        "Japanese": "占いの店"
+                    },
+                    "track_length": "0:43"
+                },
+                {
+                    "names": {
+                        "English": "Princess Zelda's Rescue",
+                        "Japanese": "ゼルダ姫救助"
+                    },
+                    "track_length": "1:33"
+                },
+                {
+                    "names": {
+                        "English": "Crystal",
+                        "Japanese": "クリスタル"
+                    },
+                    "track_length": "1:06"
+                },
+                {
+                    "names": {
+                        "English": "The Goddess Appears",
+                        "Japanese": "女神登場"
+                    },
+                    "track_length": "0:55"
+                },
+                {
+                    "names": {
+                        "English": "Priest",
+                        "Japanese": "司祭"
+                    },
+                    "track_length": "1:38"
+                },
+                {
+                    "names": {
+                        "English": "The Priest Transforms Into Ganon",
+                        "Japanese": "司祭がガノンに変身する時"
+                    },
+                    "track_length": "0:08"
+                },
+                {
+                    "names": {
+                        "English": "Ganon's Message",
+                        "Japanese": "ガノンのメッセージ"
+                    },
+                    "track_length": "0:44"
+                },
+                {
+                    "names": {
+                        "English": "Battle with Ganon",
+                        "Japanese": "ガノン戦闘"
+                    },
+                    "track_length": "1:18"
+                },
+                {
+                    "names": {
+                        "English": "Triforce Chamber",
+                        "Japanese": "トライフォースの部屋"
+                    },
+                    "track_length": "1:35"
+                },
+                {
+                    "names": {
+                        "English": "Ending",
+                        "Japanese": "エンディング"
+                    },
+                    "track_length": "7:46"
+                }
+            ]
+        }
+    ],
+    "link": "album/885",
+    "lyricists": [],
+    "media_format": "2 CD",
+    "meta": {
+        "added_date": "2006-08-07T12:39",
+        "edited_date": "2022-05-02T22:22",
+        "fetched_date": "2022-12-28T17:58",
+        "ttl": 86400,
+        "visitors": 22709
+    },
+    "name": "The Legend of Zelda SOUND & DRAMA",
+    "names": {
+        "en": "The Legend of Zelda SOUND & DRAMA",
+        "ja": "ゼルダの伝説 \"サウンド&ドラマ\"",
+        "ja-latn": "Zelda no Densetsu SOUND & DRAMA"
+    },
+    "notes": "Disc 1 contains mostly synthesized arrange versions of music from The Legend of Zelda: A Link To The Past (tracks 1-8) and a drama track (track 9). The drama track serves as an unofficial prologue to \"A Link to the Past\".\nDisc 2 contains original game music from The Legend of Zelda (tracks 01~10) and The Legend of Zelda: A Link To The Past (tracks 11~40).\nExecutive Producer: Mitsuhisa Hida, Katsutoshi Eguchi\nProducer: Toru Harada\nSound Producer: Yoshiyuki Ito\nRecording Engineer: Masataka Fukuda (Crescente), Yoshiyuki Ito\nRecorded & Mixed at T3 Elevation Sound Recording Studio, Onkio Haus\n(ARRANGED VERSION)\n-Music-\nKohji Kondo\n-Arrangers-\nYoshiyuki Ito (Disc 1 - 1, 3, 6, 8)\nMasumi Ito (Disc 1 - 2, 4, 5, 7)\n-Players-\nStrings: Kuwano Hijiri Group\nVoice, Piano, Synthesizer & Strings Contact: Masumi Ito\nGuitar, Synthesizer-Programing: Yoshiyuki Ito\n(DRAMA PART)\n-Cast-\nLink: Hikaru Midorikawa\nPrincess Zelda: Mariko Kouda\nBanzetta (バンゼッタ): Yukimasa Kishino\nLoretta (ロレッタ): Naoko Nakamura\nEgorowa (エゴロワ): Fu Suzuki (鈴木渢)\nAlphon (アルフォン): Daisuke Gouri\nProducer: Shinichi Ogawa\nProduction: Aoni Production\nDirector: Hisahiro Suzuki\nSound-Effect: Seiji Miyazaki\nRecorded at Avaco Creative Studio\nSpecial Thanks to Kenji Inaba (Nintendo Co., Ltd.)",
+    "organizations": [
+        {
+            "link": "org/90",
+            "names": {
+                "en": "Sony Records",
+                "ja": "Sony Records",
+                "ja-latn": "Sony Records"
+            },
+            "role": "label"
+        },
+        {
+            "link": "org/63",
+            "names": {
+                "en": "Sony Music Entertainment (Japan) Inc.",
+                "ja": "株式会社ソニー・ミュージックエンタテインメント",
+                "ja-latn": "Sony Music Entertainment (Japan) Inc."
+            },
+            "role": "manufacturer"
+        }
+    ],
+    "performers": [
+        {
+            "link": "artist/40",
+            "names": {
+                "en": "Masumi Ito",
+                "ja": "伊藤真澄"
+            }
+        },
+        {
+            "link": "artist/7768",
+            "names": {
+                "en": "Kuwano Hijiri Group"
+            }
+        },
+        {
+            "link": "artist/341",
+            "names": {
+                "en": "Yoshiyuki Ito",
+                "ja": "伊藤善之"
+            }
+        },
+        {
+            "link": "artist/606",
+            "names": {
+                "en": "Hikaru Midorikawa",
+                "ja": "緑川光"
+            }
+        },
+        {
+            "link": "artist/2021",
+            "names": {
+                "en": "Mariko Kouda",
+                "ja": "國府田マリ子"
+            }
+        },
+        {
+            "link": "artist/3696",
+            "names": {
+                "en": "Yukimasa Kishino",
+                "ja": "岸野幸正"
+            }
+        },
+        {
+            "link": "artist/13038",
+            "names": {
+                "en": "Naoko Nakamura",
+                "ja": "中村尚子"
+            }
+        },
+        {
+            "names": {
+                "en": "Fu Suzuki"
+            }
+        },
+        {
+            "link": "artist/4856",
+            "names": {
+                "en": "Daisuke Gouri",
+                "ja": "郷里大輔"
+            }
+        }
+    ],
+    "picture_full": "https://media.vgm.io/albums/58/885/885-1270189622.png",
+    "picture_small": "https://medium-media.vgm.io/albums/58/885/885-1270189622.png",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/58/885/885-1270189622.png",
+    "platforms": [
+        "NES (Famicom)",
+        "SNES (Super Famicom)"
+    ],
+    "products": [
+        {
+            "link": "product/416",
+            "names": {
+                "en": "The Legend of Zelda",
+                "ja": "ゼルダの伝説",
+                "ja-latn": "The Legend of Zelda"
+            }
+        },
+        {
+            "link": "product/500",
+            "names": {
+                "en": "The Legend of Zelda: A Link to the Past",
+                "ja": "ゼルダの伝説 神々のトライフォース",
+                "ja-latn": "Zelda no Densetsu: Kamigami no Triforce"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/90",
+        "names": {
+            "en": "Sony Records",
+            "ja": "Sony Records",
+            "ja-latn": "Sony Records"
+        },
+        "role": "label"
+    },
+    "related": [],
+    "release_date": "1994-06-22",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 3800.0
+    },
+    "reprints": [],
+    "stores": [],
+    "vgmdb_link": "https://vgmdb.net/album/885?perpage=99999",
+    "votes": 0,
+    "websites": {
+        "Review": [
+            {
+                "link": "http://www.rpgfan.com/soundtracks/zeldasd/index.html",
+                "name": "RPGFan's Review"
+            }
+        ]
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/25377",
+            "names": {
+                "en": "GIRL NEXT DOOR"
+            }
+        },
+        {
+            "link": "artist/11247",
+            "names": {
+                "en": "Tohru Watanabe",
+                "ja": "渡辺徹"
+            }
+        },
+        {
+            "names": {
+                "en": "Ferry Corsten"
+            }
+        }
+    ],
+    "barcode": "4988064316878",
+    "catalog": "AVCD-31687/B",
+    "categories": [
+        "Game"
+    ],
+    "category": "Game",
+    "classification": "Vocal",
+    "composers": [
+        {
+            "link": "artist/3650",
+            "names": {
+                "en": "Daisuke Suzuki",
+                "ja": "鈴木大輔"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/66/14966/14966-1250038457.jpg",
+            "medium": "https://medium-media.vgm.io/albums/66/14966/14966-1250038457.jpg",
+            "name": "Front",
+            "thumb": "https://thumb-media.vgm.io/albums/66/14966/14966-1250038457.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/66/14966/14966-1250038579.jpg",
+            "medium": "https://medium-media.vgm.io/albums/66/14966/14966-1250038579.jpg",
+            "name": "Back",
+            "thumb": "https://thumb-media.vgm.io/albums/66/14966/14966-1250038579.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/66/14966/14966-1250038866.jpg",
+            "medium": "https://medium-media.vgm.io/albums/66/14966/14966-1250038866.jpg",
+            "name": "Card Back",
+            "thumb": "https://thumb-media.vgm.io/albums/66/14966/14966-1250038866.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/66/14966/14966-1250038859.jpg",
+            "medium": "https://medium-media.vgm.io/albums/66/14966/14966-1250038859.jpg",
+            "name": "Card Front",
+            "thumb": "https://thumb-media.vgm.io/albums/66/14966/14966-1250038859.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/66/14966/14966-1250038491.jpg",
+            "medium": "https://medium-media.vgm.io/albums/66/14966/14966-1250038491.jpg",
+            "name": "Case Back",
+            "thumb": "https://thumb-media.vgm.io/albums/66/14966/14966-1250038491.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/66/14966/14966-1250038475.jpg",
+            "medium": "https://medium-media.vgm.io/albums/66/14966/14966-1250038475.jpg",
+            "name": "Case Front",
+            "thumb": "https://thumb-media.vgm.io/albums/66/14966/14966-1250038475.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/66/14966/14966-1250038557.jpg",
+            "medium": "https://medium-media.vgm.io/albums/66/14966/14966-1250038557.jpg",
+            "name": "Disc",
+            "thumb": "https://thumb-media.vgm.io/albums/66/14966/14966-1250038557.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "24:09",
+            "name": "Disc 1 (CD) [AVCD-31687]",
+            "tracks": [
+                {
+                    "names": {
+                        "Japanese": "Be your wings",
+                        "Romaji": "Be your wings"
+                    },
+                    "track_length": "4:07"
+                },
+                {
+                    "names": {
+                        "Japanese": "FRIENDSHIP",
+                        "Romaji": "FRIENDSHIP"
+                    },
+                    "track_length": "4:22"
+                },
+                {
+                    "names": {
+                        "Japanese": "Wait for you",
+                        "Romaji": "Wait for you"
+                    },
+                    "track_length": "4:07"
+                },
+                {
+                    "names": {
+                        "Japanese": "情熱の代償 (Ferry Corsten Remix)",
+                        "Romaji": "Jounetsu no Daishou (Ferry Corsten Remix)"
+                    },
+                    "track_length": "7:27"
+                },
+                {
+                    "names": {
+                        "Japanese": "Be your wings (Instrumental)",
+                        "Romaji": "Be your wings (Instrumental)"
+                    },
+                    "track_length": "4:06"
+                }
+            ]
+        },
+        {
+            "disc_length": "Unknown",
+            "name": "Disc 2 (DVD) [AVCD-31687B]",
+            "tracks": [
+                {
+                    "names": {
+                        "Japanese": "Be your wings (MUSIC VIDEO)",
+                        "Romaji": "Be your wings (MUSIC VIDEO)"
+                    },
+                    "track_length": "Unknown"
+                },
+                {
+                    "names": {
+                        "Japanese": "プレイステーション•ポータブル「テイルズ オブ バーサス」オープニング•アニメーション•ムービー",
+                        "Romaji": "PlayStation Portable \"Tales of VS.\" Opening Animation Movie"
+                    },
+                    "track_length": "Unknown"
+                }
+            ]
+        }
+    ],
+    "distributor": {
+        "link": "org/326",
+        "names": {
+            "en": "avex marketing Inc.",
+            "ja": "エイベックス・マーケティング株式会社",
+            "ja-latn": "avex marketing Inc."
+        },
+        "role": "distributor"
+    },
+    "link": "album/14966",
+    "lyricists": [
+        {
+            "link": "artist/25376",
+            "names": {
+                "en": "Chisa",
+                "ja": "千紗"
+            }
+        },
+        {
+            "link": "artist/5285",
+            "names": {
+                "en": "Kenn Kato",
+                "ja": "加藤健"
+            }
+        }
+    ],
+    "media_format": "CD + DVD",
+    "meta": {
+        "added_date": "2009-08-11T16:51",
+        "edited_date": "2022-05-03T12:30",
+        "fetched_date": "2022-12-28T18:36",
+        "ttl": 86400,
+        "visitors": 3882
+    },
+    "name": "Be your wings/FRIENDSHIP/Wait for you / GIRL NEXT DOOR",
+    "names": {
+        "en": "Be your wings/FRIENDSHIP/Wait for you / GIRL NEXT DOOR",
+        "ja": "Be your wings/FRIENDSHIP/Wait for you / GIRL NEXT DOOR",
+        "ja-latn": "Be your wings/FRIENDSHIP/Wait for you / GIRL NEXT DOOR"
+    },
+    "notes": "This edition includes bonus DVD with music video of \"Be Your wings\" and intro footage of \"Tales of VS.\"\nBe your wings - FRIENDSHIP - Wait for you\nLyrics by Chisa & Kenn Kato\nComposition by Daisuke Suzuki\nArrangement by GIRL NEXT DOOR & Toru Watanabe\nM04 remixed by Ferry Corsten",
+    "organizations": [
+        {
+            "link": "org/222",
+            "names": {
+                "en": "avex trax",
+                "ja": "avex trax",
+                "ja-latn": "avex trax"
+            },
+            "role": "label"
+        },
+        {
+            "link": "org/326",
+            "names": {
+                "en": "avex marketing Inc.",
+                "ja": "エイベックス・マーケティング株式会社",
+                "ja-latn": "avex marketing Inc."
+            },
+            "role": "manufacturer"
+        },
+        {
+            "link": "org/326",
+            "names": {
+                "en": "avex marketing Inc.",
+                "ja": "エイベックス・マーケティング株式会社",
+                "ja-latn": "avex marketing Inc."
+            },
+            "role": "distributor"
+        }
+    ],
+    "performers": [
+        {
+            "link": "artist/25377",
+            "names": {
+                "en": "GIRL NEXT DOOR"
+            }
+        }
+    ],
+    "picture_full": "https://media.vgm.io/albums/66/14966/14966-1250038457.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/66/14966/14966-1250038457.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/66/14966/14966-1250038457.jpg",
+    "platforms": [
+        "Sony PlayStation Portable"
+    ],
+    "products": [
+        {
+            "link": "product/558",
+            "names": {
+                "en": "Tales of VS.",
+                "ja": "テイルズ オブ バーサス",
+                "ja-latn": "Tales of VS."
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/222",
+        "names": {
+            "en": "avex trax",
+            "ja": "avex trax",
+            "ja-latn": "avex trax"
+        },
+        "role": "label"
+    },
+    "related": [
+        {
+            "catalog": "AVCD-23945~6",
+            "date": "2009-11-11",
+            "link": "album/13956",
+            "names": {
+                "en": "TALES OF VS. ORIGINAL SOUNDTRACK",
+                "ja": "テイルズ オブ バーサス オリジナルサウンドトラック",
+                "ja-latn": "TALES OF VS. ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        }
+    ],
+    "release_date": "2009-08-05",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 1980.0
+    },
+    "reprints": [],
+    "stores": [
+        {
+            "link": "http://www.cdjapan.co.jp/detailview.html?KEY=AVCD-31687",
+            "name": "CDJapan"
+        },
+        {
+            "link": "http://www.play-asia.com/paOS-13-71-9y-49-en-15-AVCD_31687-70-3g6n.html",
+            "name": "Play-Asia"
+        },
+        {
+            "link": "http://www.yesasia.com/us/be-your-wings-friendship-wait-for-you-jacket-a-single-dvd-japan-version/1020334210-0-0-0-en/info.html",
+            "name": "YesAsia"
+        }
+    ],
+    "vgmdb_link": "https://vgmdb.net/album/14966?perpage=99999",
+    "votes": 0
+}

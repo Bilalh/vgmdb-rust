@@ -1,0 +1,321 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/1095",
+            "names": {
+                "en": "Jonne Valtonen"
+            }
+        },
+        {
+            "link": "artist/9364",
+            "names": {
+                "en": "Roger Wanamo"
+            }
+        },
+        {
+            "link": "artist/145",
+            "names": {
+                "en": "Masashi Hamauzu",
+                "ja": "浜渦正志"
+            }
+        }
+    ],
+    "barcode": "9008798176571",
+    "catalog": "MSP-6710d",
+    "categories": [
+        "Game"
+    ],
+    "category": "Game",
+    "classification": "Arrangement",
+    "composers": [
+        {
+            "link": "artist/1095",
+            "names": {
+                "en": "Jonne Valtonen"
+            }
+        },
+        {
+            "link": "artist/77",
+            "names": {
+                "en": "Nobuo Uematsu",
+                "ja": "植松伸夫"
+            }
+        },
+        {
+            "link": "artist/145",
+            "names": {
+                "en": "Masashi Hamauzu",
+                "ja": "浜渦正志"
+            }
+        }
+    ],
+    "covers": [],
+    "discs": [
+        {
+            "disc_length": "94:30",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "Fantasy Overture (Circle within a Circle within a Circle)"
+                    },
+                    "track_length": "4:08"
+                },
+                {
+                    "names": {
+                        "English": "Final Fantasy VI (Symphonic Poem: Born with the Gift of Magic)"
+                    },
+                    "track_length": "18:07"
+                },
+                {
+                    "names": {
+                        "English": "Final Fantasy X (Piano Concerto): I. Zanarkand"
+                    },
+                    "track_length": "8:17"
+                },
+                {
+                    "names": {
+                        "English": "Final Fantasy X (Piano Concerto): II. Inori"
+                    },
+                    "track_length": "6:36"
+                },
+                {
+                    "names": {
+                        "English": "Final Fantasy X (Piano Concerto): III. Kessen"
+                    },
+                    "track_length": "4:21"
+                },
+                {
+                    "names": {
+                        "English": "Encore: Final Fantasy X (Suteki da ne)"
+                    },
+                    "track_length": "3:43"
+                },
+                {
+                    "names": {
+                        "English": "Final Fantasy VII (Symphony in Three Movements): I. Nibelheim Incident"
+                    },
+                    "track_length": "13:42"
+                },
+                {
+                    "names": {
+                        "English": "Final Fantasy VII (Symphony in Three Movements): II. Words Drowned by Fireworks"
+                    },
+                    "track_length": "13:38"
+                },
+                {
+                    "names": {
+                        "English": "Final Fantasy VII (Symphony in Three Movements): III. The Planet's Crisis"
+                    },
+                    "track_length": "14:06"
+                },
+                {
+                    "names": {
+                        "English": "Encore: Final Fantasy VII (Continue?)"
+                    },
+                    "track_length": "4:35"
+                },
+                {
+                    "names": {
+                        "English": "Encore: Final Fantasy Series (Fight, Fight, Fight!)"
+                    },
+                    "track_length": "3:17"
+                }
+            ]
+        }
+    ],
+    "link": "album/50946",
+    "lyricists": [],
+    "media_format": "Digital",
+    "meta": {
+        "added_date": "2015-02-14T01:58",
+        "edited_date": "2015-03-02T03:47",
+        "fetched_date": "2022-12-28T17:58",
+        "freedb": 17,
+        "ttl": 86400,
+        "visitors": 11577
+    },
+    "name": "Final Symphony - music from Final Fantasy VI, VII and X",
+    "names": {
+        "en": "Final Symphony - music from Final Fantasy VI, VII and X",
+        "ja": "Final Symphony - music from Final Fantasy VI, VII and X",
+        "ja-latn": "Final Symphony - music from Final Fantasy VI, VII and X"
+    },
+    "notes": "Music composed by Nobuo Uematsu (2-11), Masashi Hamauzu (3-5) and Jonne Valtonen (1)\nMusic arranged by Jonne Valtonen (7-10), Roger Wanamo (2, 6, 11) and Masashi Hamauzu (3-5)\nMusic orchestrated by Jonne Valtonen (1, 7-10) and Roger Wanamo (2-5, 11)\nPerformed by the London Symphony Orchestra\nConductor: Eckehard Stier\nLeader: Tomo Keller\nPiano: Katharina Treutler\nCreator, Director and Executive Producer: Thomas Böcker\nMusic recorded and mixed by Simon Rhodes at Abbey Road Studios\nMusic mastered by Simon Gibson at Abbey Road Studios\nMusic recorded, mixed and mastered December 2014/January 2015",
+    "organizations": [
+        {
+            "names": {
+                "en": "X5 Music Group"
+            },
+            "role": "publisher"
+        }
+    ],
+    "performers": [
+        {
+            "link": "artist/2051",
+            "names": {
+                "en": "London Symphony Orchestra"
+            }
+        },
+        {
+            "link": "artist/19956",
+            "names": {
+                "en": "Tomo Keller"
+            }
+        },
+        {
+            "link": "artist/20739",
+            "names": {
+                "en": "Katharina Treutler"
+            }
+        }
+    ],
+    "picture_full": "https://media.vgm.io/albums/64/50946/50946-1423908037.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/64/50946/50946-1423908037.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/64/50946/50946-1423908037.jpg",
+    "platforms": [
+        "SNES (Super Famicom)",
+        "Sony PlayStation",
+        "Sony PlayStation 2"
+    ],
+    "products": [
+        {
+            "link": "product/182",
+            "names": {
+                "en": "FINAL FANTASY VI",
+                "ja": "ファイナルファンタジーVI",
+                "ja-latn": "FINAL FANTASY VI"
+            }
+        },
+        {
+            "link": "product/188",
+            "names": {
+                "en": "FINAL FANTASY VII",
+                "ja": "ファイナルファンタジーVII",
+                "ja-latn": "FINAL FANTASY VII"
+            }
+        },
+        {
+            "link": "product/192",
+            "names": {
+                "en": "FINAL FANTASY X",
+                "ja": "ファイナルファンタジーX",
+                "ja-latn": "FINAL FANTASY X"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "names": {
+            "en": "X5 Music Group"
+        },
+        "role": "publisher"
+    },
+    "related": [
+        {
+            "catalog": "MSP-6710",
+            "date": "2015-04-23",
+            "link": "album/52309",
+            "names": {
+                "en": "Final Symphony - music from Final Fantasy VI, V...",
+                "ja": "Final Symphony - music from Final Fantasy VI, V...",
+                "ja-latn": "Final Symphony - music from Final Fantasy VI, V..."
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2016-12-20",
+            "link": "album/62531",
+            "names": {
+                "en": "Final Symphony: Deluxe Triple Vinyl",
+                "ja": "Final Symphony: Deluxe Triple Vinyl",
+                "ja-latn": "Final Symphony: Deluxe Triple Vinyl"
+            },
+            "type": "game"
+        }
+    ],
+    "release_date": "2015-02-23",
+    "release_events": [],
+    "release_price": {
+        "currency": "EUR",
+        "price": 8.99
+    },
+    "reprints": [
+        {
+            "catalog": "SQEX-20021",
+            "link": "album/53591",
+            "note": "Blu-ray, Japanese, Sep 16, 2015"
+        }
+    ],
+    "stores": [
+        {
+            "link": "http://amazon.com/gp/product/B00TYMD07K/",
+            "name": "Amazon MP3"
+        },
+        {
+            "link": "http://merregnonrecords.bandcamp.com/album/final-symphony-music-from-final-fantasy-vi-vii-and-x",
+            "name": "Bandcamp"
+        },
+        {
+            "link": "http://itunes.apple.com/album/final-symphony-music-from/id965183547",
+            "name": "iTunes"
+        }
+    ],
+    "vgmdb_link": "https://vgmdb.net/album/50946?perpage=99999",
+    "votes": 0,
+    "websites": {
+        "Interview": [
+            {
+                "link": "http://www.vgmonline.net/thomasboeckerinterview13/",
+                "name": "GMO - Thomas Boecker Interview: Why Final Symphony Isn’t the End"
+            }
+        ],
+        "Official": [
+            {
+                "link": "https://www.youtube.com/watch?v=qoU8uGJTk9s",
+                "name": "Final Symphony album trailer"
+            },
+            {
+                "link": "http://www.finalsymphony.com",
+                "name": "Final Symphony website"
+            },
+            {
+                "link": "https://www.youtube.com/watch?v=r1rbdoUmZGI",
+                "name": "Final Symphony: Nobuo Uematsu video interview"
+            }
+        ],
+        "Reference": [
+            {
+                "link": "http://www.vgmonline.net/ff6symphonicpoem/",
+                "name": "GMO: Final Fantasy VI Symphonic Poem Listener’s Guide"
+            },
+            {
+                "link": "http://www.vgmonline.net/ff7symphony/",
+                "name": "GMO: Final Fantasy VII Symphony Listener’s Guide"
+            },
+            {
+                "link": "http://www.vgmonline.net/ff10concerto/",
+                "name": "GMO: Final Fantasy X Piano Concerto Listener’s Guide"
+            }
+        ],
+        "Review": [
+            {
+                "link": "http://caffeinecrew.com/2015/02/27/the-review-of-final-symphony/",
+                "name": "Caffeine Crew's Review"
+            },
+            {
+                "link": "http://www.classicfm.com/artists/london-symphony-orchestra/album-reviews/final-symphony-fantasy-vi-vii-x/",
+                "name": "Classic FM's Review"
+            },
+            {
+                "link": "http://www.vgmonline.net/final-symphony/",
+                "name": "GMO: Joe's Review"
+            },
+            {
+                "link": "http://www.rpgfan.com/soundtracks/final-symphony/index.html",
+                "name": "RPGFan: Stephen's Review"
+            }
+        ]
+    }
+}

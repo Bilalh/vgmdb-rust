@@ -1,0 +1,854 @@
+{
+    "arrangers": [],
+    "barcode": "4988023029955",
+    "catalog": "PSCN-5021~3",
+    "categories": [
+        "Game"
+    ],
+    "category": "Game",
+    "classification": "Original Soundtrack",
+    "composers": [],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1231724420.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1231724420.jpg",
+            "name": "Slipcase Front",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1231724420.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1231724610.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1231724610.jpg",
+            "name": "Booklet Back",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1231724610.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1231724616.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1231724616.jpg",
+            "name": "Booklet Front",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1231724616.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1231724426.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1231724426.jpg",
+            "name": "Disc 1",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1231724426.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1231724430.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1231724430.jpg",
+            "name": "Disc 2",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1231724430.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1231724412.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1231724412.jpg",
+            "name": "Disc 3",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1231724412.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1231724415.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1231724415.jpg",
+            "name": "Slipcase Back",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1231724415.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1326072335.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1326072335.jpg",
+            "name": "Slipcase Bottom",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1326072335.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1231724423.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1231724423.jpg",
+            "name": "Slipcase Side",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1231724423.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/81/18/18-1326072336.jpg",
+            "medium": "https://medium-media.vgm.io/albums/81/18/18-1326072336.jpg",
+            "name": "Slipcase Top",
+            "thumb": "https://thumb-media.vgm.io/albums/81/18/18-1326072336.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "46:35",
+            "name": "Disc 1 [PSCN-5021]",
+            "tracks": [
+                {
+                    "names": {
+                        "English (Revival Disc)": "Presentiment",
+                        "English PS1 Sound Test": "A Premonition",
+                        "Japanese": "予感"
+                    },
+                    "track_length": "0:35"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Chrono Trigger",
+                        "English PS1 Sound Test": "Chrono Trigger",
+                        "Japanese": "クロノ・トリガー"
+                    },
+                    "track_length": "2:02"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Morning Sunlight",
+                        "English PS1 Sound Test": "Morning Glow",
+                        "Japanese": "朝の日ざし"
+                    },
+                    "track_length": "0:57"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Peaceful Days",
+                        "English PS1 Sound Test": "Peaceful Days",
+                        "Japanese": "やすらぎの日々"
+                    },
+                    "track_length": "2:49"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Memories of Green",
+                        "English PS1 Sound Test": "Green Memories",
+                        "Japanese": "みどりの思い出"
+                    },
+                    "track_length": "3:52"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Guardia Millennial Fair",
+                        "English PS1 Sound Test": "Guardia's Millenial Fair",
+                        "Japanese": "ガルディア王国千年祭"
+                    },
+                    "track_length": "3:17"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Gato's Song",
+                        "English PS1 Sound Test": "Gato's Song",
+                        "Japanese": "ゴンザレスのお歌"
+                    },
+                    "track_length": "0:43"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "A Strange Happening",
+                        "English PS1 Sound Test": "Strange Occurences",
+                        "Japanese": "不思議な出来事"
+                    },
+                    "track_length": "1:43"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Wind Scene",
+                        "English PS1 Sound Test": "Yearnings of the Wind",
+                        "Japanese": "風の憧憬"
+                    },
+                    "track_length": "3:23"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Goodnight",
+                        "English PS1 Sound Test": "Good Night",
+                        "Japanese": "おやすみ"
+                    },
+                    "track_length": "0:08"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Secret of the Forest",
+                        "English PS1 Sound Test": "Secret of the Forest",
+                        "Japanese": "樹海の神秘"
+                    },
+                    "track_length": "4:46"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Battle 1",
+                        "English PS1 Sound Test": "Battle",
+                        "Japanese": "戦い"
+                    },
+                    "track_length": "2:29"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Courage and Pride",
+                        "English PS1 Sound Test": "Guardia Castle -Pride&Glory-",
+                        "Japanese": "ガルディア城 ～勇気と誇り～"
+                    },
+                    "track_length": "3:29"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Huh?!",
+                        "English PS1 Sound Test": "Huh!?",
+                        "Japanese": "んっ！？"
+                    },
+                    "track_length": "0:06"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Manoria Cathedral",
+                        "English PS1 Sound Test": "The Cathedral",
+                        "Japanese": "マノリア修道院"
+                    },
+                    "track_length": "1:14"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "A Prayer to the Road that Leads",
+                        "English PS1 Sound Test": "A Prayer for the Wayfarer",
+                        "Japanese": "道行く者へ　祈りを⋯"
+                    },
+                    "track_length": "0:12"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Silent Light",
+                        "English PS1 Sound Test": "Light of Silence",
+                        "Japanese": "沈黙の光"
+                    },
+                    "track_length": "2:24"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Boss Battle 1",
+                        "English PS1 Sound Test": "Boss Battle 1",
+                        "Japanese": "ボス・バトル1"
+                    },
+                    "track_length": "1:58"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Frog's Theme",
+                        "English PS1 Sound Test": "Frog's Theme",
+                        "Japanese": "カエルのテーマ"
+                    },
+                    "track_length": "1:50"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Fanfare 1",
+                        "English PS1 Sound Test": "Fanfare 1",
+                        "Japanese": "ファンファーレ1"
+                    },
+                    "track_length": "1:16"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Kingdom Trial",
+                        "English PS1 Sound Test": "The Trial",
+                        "Japanese": "王国裁判"
+                    },
+                    "track_length": "3:44"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "The Hidden Truth",
+                        "English PS1 Sound Test": "The Hidden Truth",
+                        "Japanese": "隠された事実"
+                    },
+                    "track_length": "0:59"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "A Shot of Crisis",
+                        "English PS1 Sound Test": "Critical Moment",
+                        "Japanese": "危機一髪"
+                    },
+                    "track_length": "2:39"
+                }
+            ]
+        },
+        {
+            "disc_length": "50:33",
+            "name": "Disc 2 [PSCN-5022]",
+            "tracks": [
+                {
+                    "names": {
+                        "English (Revival Disc)": "Ruined World",
+                        "English PS1 Sound Test": "A Desolate World",
+                        "Japanese": "荒れ果てた世界"
+                    },
+                    "track_length": "3:24"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Mystery of the Past",
+                        "English PS1 Sound Test": "Mystery from the Past",
+                        "Japanese": "過去の謎"
+                    },
+                    "track_length": "0:07"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Lab 16's Ruin",
+                        "English PS1 Sound Test": "Lab 16 Ruins",
+                        "Japanese": "16号廃墟"
+                    },
+                    "track_length": "1:34"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "People Without Hope",
+                        "English PS1 Sound Test": "Those Without the Will to Live",
+                        "Japanese": "生きる望みをすてた人々"
+                    },
+                    "track_length": "3:08"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Lavos' Theme",
+                        "English PS1 Sound Test": "Lavos' Theme",
+                        "Japanese": "ラヴォスのテーマ"
+                    },
+                    "track_length": "5:11"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "The Day the World Revived",
+                        "English PS1 Sound Test": "The Last Day of the World",
+                        "Japanese": "世界最期の日"
+                    },
+                    "track_length": "1:26"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Robo Gang Johnny",
+                        "English PS1 Sound Test": "Johnny of the Robo Gang",
+                        "Japanese": "暴走ロボ軍団ジョニー"
+                    },
+                    "track_length": "2:21"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Bike Chase",
+                        "English PS1 Sound Test": "Bike Chase",
+                        "Japanese": "バイクチェイス"
+                    },
+                    "track_length": "1:35"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Robo's Theme",
+                        "English PS1 Sound Test": "Robo's Theme",
+                        "Japanese": "ロボのテーマ"
+                    },
+                    "track_length": "1:33"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Remains of the Factory",
+                        "English PS1 Sound Test": "Factory Ruins",
+                        "Japanese": "工場跡"
+                    },
+                    "track_length": "3:10"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Battle 2",
+                        "English PS1 Sound Test": "Battle 2 (not used)",
+                        "Japanese": "戦い2（UNRELEASED TRACK）"
+                    },
+                    "track_length": "2:10"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Fanfare 2",
+                        "English PS1 Sound Test": "Fanfare 2",
+                        "Japanese": "ファンファーレ2"
+                    },
+                    "track_length": "0:08"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Brink of Time",
+                        "English PS1 Sound Test": "End of Time",
+                        "Japanese": "時の最果て"
+                    },
+                    "track_length": "2:32"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Delightful Spekkio",
+                        "English PS1 Sound Test": "Jolly Ol' Spekkio",
+                        "Japanese": "愉快なスペッキオ"
+                    },
+                    "track_length": "2:49"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Fanfare 3",
+                        "English PS1 Sound Test": "Fanfare 3",
+                        "Japanese": "ファンファーレ3"
+                    },
+                    "track_length": "0:06"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Underground Sewer",
+                        "English PS1 Sound Test": "Creeping through the Sewers",
+                        "Japanese": "地下水道"
+                    },
+                    "track_length": "2:24"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Boss Battle 2",
+                        "English PS1 Sound Test": "Boss Battle 2",
+                        "Japanese": "ボス・バトル2"
+                    },
+                    "track_length": "2:41"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Primitive Mountain",
+                        "English PS1 Sound Test": "Primeval Mountain",
+                        "Japanese": "原始の山"
+                    },
+                    "track_length": "3:07"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Ayla's Theme",
+                        "English PS1 Sound Test": "Ayla's Theme",
+                        "Japanese": "エイラのテーマ"
+                    },
+                    "track_length": "1:24"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Rhythm of Wind, Sky and Earth",
+                        "English PS1 Sound Test": "Rhythm of Earth, Wind, & Sky",
+                        "Japanese": "風と空と大地のリズム"
+                    },
+                    "track_length": "1:52"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Burn! Bobonga!",
+                        "English PS1 Sound Test": "Burn! Bobonga!",
+                        "Japanese": "燃えよ！ボボンガ！"
+                    },
+                    "track_length": "2:12"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Magus' Castle",
+                        "English PS1 Sound Test": "Magus's Lair",
+                        "Japanese": "魔王城"
+                    },
+                    "track_length": "0:29"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Confusing Melody",
+                        "English PS1 Sound Test": "Strains of Insanity",
+                        "Japanese": "錯乱の旋律"
+                    },
+                    "track_length": "1:40"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Battle with Magus",
+                        "English PS1 Sound Test": "Showdown with Magus",
+                        "Japanese": "魔王決戦"
+                    },
+                    "track_length": "3:30"
+                }
+            ]
+        },
+        {
+            "disc_length": "53:48",
+            "name": "Disc 3 [PSCN-5023]",
+            "tracks": [
+                {
+                    "names": {
+                        "English (Revival Disc)": "Singing Mountain",
+                        "English PS1 Sound Test": "Singing Mountain (not used)",
+                        "Japanese": "歌う山（UNRELEASED TRACK）"
+                    },
+                    "track_length": "3:06"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Tyran Castle",
+                        "English PS1 Sound Test": "Tyrano Lair",
+                        "Japanese": "ティラン城"
+                    },
+                    "track_length": "3:50"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "At the Bottom of Night",
+                        "English PS1 Sound Test": "Depths of the Night",
+                        "Japanese": "夜の底にて"
+                    },
+                    "track_length": "2:31"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Corridors of Time",
+                        "English PS1 Sound Test": "Corridor of Time",
+                        "Japanese": "時の回廊"
+                    },
+                    "track_length": "3:01"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Zeal Palace",
+                        "English PS1 Sound Test": "Zeal Palace",
+                        "Japanese": "ジール宮殿"
+                    },
+                    "track_length": "3:57"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Schala's Theme",
+                        "English PS1 Sound Test": "Schala's Theme",
+                        "Japanese": "サラのテーマ"
+                    },
+                    "track_length": "2:48"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Sealed Door",
+                        "English PS1 Sound Test": "Sealed Door",
+                        "Japanese": "封印の扉"
+                    },
+                    "track_length": "2:48"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Undersea Palace",
+                        "English PS1 Sound Test": "Ocean Palace",
+                        "Japanese": "海底神殿"
+                    },
+                    "track_length": "3:24"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Far Off Promise",
+                        "English PS1 Sound Test": "Crono&Marle -A Distant Promise-",
+                        "Japanese": "クロノとマール ～遠い約束～"
+                    },
+                    "track_length": "1:56"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Wings That Cross Time",
+                        "English PS1 Sound Test": "Epoch -Wings of Time-",
+                        "Japanese": "シルバード ～時を渡る翼～"
+                    },
+                    "track_length": "3:24"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Black Omen",
+                        "English PS1 Sound Test": "Black Omen",
+                        "Japanese": "黒の夢"
+                    },
+                    "track_length": "3:04"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Determination",
+                        "English PS1 Sound Test": "Determination",
+                        "Japanese": "決意"
+                    },
+                    "track_length": "0:56"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "World Revolution",
+                        "English PS1 Sound Test": "World Revolution",
+                        "Japanese": "世界変革の時"
+                    },
+                    "track_length": "3:49"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Last Battle",
+                        "English PS1 Sound Test": "The Final Battle",
+                        "Japanese": "ラストバトル"
+                    },
+                    "track_length": "4:08"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "First Festival of Stars",
+                        "English PS1 Sound Test": "Festival of Stars",
+                        "Japanese": "星の祝祭"
+                    },
+                    "track_length": "2:45"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "Epilogue ~ To Good Friends",
+                        "English PS1 Sound Test": "Epilogue -To My Dear Friends-",
+                        "Japanese": "エピローグ ～親しき仲間へ～"
+                    },
+                    "track_length": "2:35"
+                },
+                {
+                    "names": {
+                        "English (Revival Disc)": "To Far Away Times",
+                        "English PS1 Sound Test": "Outskirts of Time",
+                        "Japanese": "遥かなる時の彼方へ"
+                    },
+                    "track_length": "5:46"
+                }
+            ]
+        }
+    ],
+    "distributor": {
+        "link": "org/24",
+        "names": {
+            "en": "POLYSTAR CO., LTD.",
+            "ja": "株式会社ポリスター",
+            "ja-latn": "POLYSTAR CO., LTD."
+        },
+        "role": "distributor"
+    },
+    "link": "album/18",
+    "lyricists": [],
+    "media_format": "3 CD",
+    "meta": {
+        "added_date": "2006-08-02T20:18",
+        "edited_date": "2022-05-02T22:08",
+        "fetched_date": "2022-12-28T15:59",
+        "ttl": 86400,
+        "visitors": 39136
+    },
+    "name": "CHRONO TRIGGER ORIGINAL SOUND VERSION",
+    "names": {
+        "en": "CHRONO TRIGGER ORIGINAL SOUND VERSION",
+        "ja": "クロノ・トリガー・オリジナル・サウンド・ヴァージョン",
+        "ja-latn": "CHRONO TRIGGER ORIGINAL SOUND VERSION"
+    },
+    "notes": "Staff\nMusic Composed and Arranged by Yasunori Mitsuda\nexcept 1-17, 2-02, 2-04, 2-08, 2-16, 2-18, 2-21, 3-02, 3-07 Composed and Arranged by Nobuo Uematsu\n           1-18 Composed by Noriko Matsueda\n           1-18 Arranged by Nobuo Uematsu\nSound Engineered by Eiji Nakamura\nSound Programmed by Minoru Akao\nProducers: Yasunori Mitsuda (Square)\n                 Mitsunobu Nakamura (NTT Pub.)\nProduction Management: Tadashi Nomura (Square)\nMastering Engineer: Masaaki Katou (Sunrise Music)\nMastered at Sunrise Studio\nIllustrator: Akira Toriyama\nArt Direction and Design: Takaaki Inoue (C2)\nExecutive Producer: Yoshitomo Ogata (NTT Pub.)\nSpecial Thanks to...\nMasato Kato            Kazuhiko Aoki\nTakashi Tokita         Keizo Kokubo\nMariko Yumoto         Takaaki Tonooka\nHiromi Shimodaira    Masako Noumura\nHironobu Sakaguchi",
+    "organizations": [
+        {
+            "link": "org/2843",
+            "names": {
+                "en": "NTT PUB.",
+                "ja": "NTT PUB.",
+                "ja-latn": "NTT PUB."
+            },
+            "role": "label"
+        },
+        {
+            "link": "org/78",
+            "names": {
+                "en": "NTT Publishing Co., Ltd.",
+                "ja": "NTT出版株式会社",
+                "ja-latn": "NTT Publishing Co., Ltd."
+            },
+            "role": "publisher"
+        },
+        {
+            "link": "org/24",
+            "names": {
+                "en": "POLYSTAR CO., LTD.",
+                "ja": "株式会社ポリスター",
+                "ja-latn": "POLYSTAR CO., LTD."
+            },
+            "role": "distributor"
+        }
+    ],
+    "performers": [],
+    "picture_full": "https://media.vgm.io/albums/81/18/18-1231724420.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/81/18/18-1231724420.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/81/18/18-1231724420.jpg",
+    "platforms": [
+        "SNES (Super Famicom)"
+    ],
+    "products": [
+        {
+            "link": "product/194",
+            "names": {
+                "en": "Chrono Trigger",
+                "ja": "クロノ・トリガー",
+                "ja-latn": "Chrono Trigger"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/2843",
+        "names": {
+            "en": "NTT PUB.",
+            "ja": "NTT PUB.",
+            "ja-latn": "NTT PUB."
+        },
+        "role": "label"
+    },
+    "related": [
+        {
+            "catalog": "PSCN-5024",
+            "link": "album/298",
+            "names": {
+                "en": "Chrono Trigger Arranged Version: The Brink of Time",
+                "ja": "クロノ・トリガー アレンジ・ヴァージョン ザ・ブ...",
+                "ja-latn": "Chrono Trigger Arranged Version: The Brink of Time"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SSCX-10039",
+            "link": "album/81",
+            "names": {
+                "en": "Chrono Trigger Original Soundtrack",
+                "ja": "クロノ・トリガー オリジナル・サウンドトラック",
+                "ja-latn": "Chrono Trigger Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "TPCD 0209-2",
+            "link": "album/2799",
+            "names": {
+                "en": "CHRONO TRIGGER Official Soundtrack: Music from ...",
+                "ja": "CHRONO TRIGGER Official Soundtrack: Music from ...",
+                "ja-latn": "CHRONO TRIGGER Official Soundtrack: Music from ..."
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "tbtmo26",
+            "link": "album/19191",
+            "names": {
+                "en": "Vibon 2: Blip-pop Click",
+                "ja": "Vibon 2: Blip-pop Click",
+                "ja-latn": "Vibon 2: Blip-pop Click"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KTBH-0002",
+            "link": "album/6944",
+            "names": {
+                "en": "Le Cercueil Du Reve",
+                "ja": "LE CERCUEIL DU REVE ~ Chrono Trigger Arrange CD",
+                "ja-latn": "Le Cercueil Du Reve"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "link": "album/5258",
+            "names": {
+                "en": "Chrono Distortion",
+                "ja": "Chrono Distortion",
+                "ja-latn": "Chrono Distortion"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TPCD-0020",
+            "link": "album/3022",
+            "names": {
+                "en": "CHRONO CORRIDOR",
+                "ja": "CHRONO CORRIDOR",
+                "ja-latn": "CHRONO CORRIDOR"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "link": "album/5747",
+            "names": {
+                "en": "The Chrono Trigger Mixtape, Vol. #1",
+                "ja": "The Chrono Trigger Mixtape, Vol. #1",
+                "ja-latn": "The Chrono Trigger Mixtape, Vol. #1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AECD-0001",
+            "link": "album/6813",
+            "names": {
+                "en": "ART - Chrono Trigger Arrange Album",
+                "ja": "ART - Chrono Trigger Arrange Album",
+                "ja-latn": "ART - Chrono Trigger Arrange Album"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "link": "album/118118",
+            "names": {
+                "en": "Akogi Lesson 2",
+                "ja": "あこぎれっすん2",
+                "ja-latn": "Akogi Lesson 2"
+            },
+            "type": "doujin"
+        }
+    ],
+    "release_date": "1995-03-25",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 3800.0
+    },
+    "reprints": [
+        {
+            "catalog": "GAME-078~80",
+            "link": "album/14177",
+            "note": "Taiwanese, Bootleg printing, 1995"
+        },
+        {
+            "catalog": "KO-99121~3",
+            "link": "album/99286",
+            "note": "Taiwanese, Bootleg printing, 1995"
+        },
+        {
+            "catalog": "FXCD-016-1~3",
+            "link": "album/106296",
+            "note": "Hong Kong, Bootleg printing, 1995"
+        },
+        {
+            "catalog": "GM-568~70",
+            "link": "album/95085",
+            "note": "Taiwanese, Bootleg printing, 2002"
+        },
+        {
+            "catalog": "MICA-0244~6",
+            "link": "album/57679",
+            "note": "Taiwanese, Bootleg printing, 2004"
+        },
+        {
+            "catalog": "NTCP-5021~3",
+            "link": "album/3391",
+            "note": "Oct 01, 2004"
+        }
+    ],
+    "stores": [],
+    "vgmdb_link": "https://vgmdb.net/album/18?perpage=99999",
+    "votes": 0,
+    "websites": {
+        "Official": [
+            {
+                "link": "http://www.nttpub.co.jp/search/books/detail/100000371",
+                "name": "NTT Publishing"
+            }
+        ],
+        "Reference": [
+            {
+                "link": "http://www.originalsoundversion.com/?p=915",
+                "name": "Mitsuda Talks Chrono Trigger"
+            }
+        ],
+        "Review": [
+            {
+                "link": "http://www.rpgfan.com/soundtracks/ctosv/",
+                "name": "RPGFan's Review"
+            },
+            {
+                "link": "https://www.greatestgamemusic.com/soundtracks/chrono-trigger-soundtrack/",
+                "name": "The Greatest Game Music"
+            }
+        ]
+    }
+}

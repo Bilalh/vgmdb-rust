@@ -1,0 +1,360 @@
+{
+    "arrangers": [],
+    "barcode": "4988601461023",
+    "catalog": "SQEX-10112",
+    "categories": [
+        "Game"
+    ],
+    "category": "Game",
+    "classification": "Arrangement, Vocal",
+    "composers": [
+        {
+            "link": "artist/139",
+            "names": {
+                "en": "Yoko Shimomura",
+                "ja": "下村陽子"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/88/6988/6988-1207066480.jpg",
+            "medium": "https://medium-media.vgm.io/albums/88/6988/6988-1207066480.jpg",
+            "name": "Booklet Front",
+            "thumb": "https://thumb-media.vgm.io/albums/88/6988/6988-1207066480.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/88/6988/6988-1207070222.jpg",
+            "medium": "https://medium-media.vgm.io/albums/88/6988/6988-1207070222.jpg",
+            "name": "Back",
+            "thumb": "https://thumb-media.vgm.io/albums/88/6988/6988-1207070222.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/88/6988/6988-1207066482.jpg",
+            "medium": "https://medium-media.vgm.io/albums/88/6988/6988-1207066482.jpg",
+            "name": "Booklet Back",
+            "thumb": "https://thumb-media.vgm.io/albums/88/6988/6988-1207066482.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/88/6988/6988-1207066479.jpg",
+            "medium": "https://medium-media.vgm.io/albums/88/6988/6988-1207066479.jpg",
+            "name": "Disc",
+            "thumb": "https://thumb-media.vgm.io/albums/88/6988/6988-1207066479.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/88/6988/6988-1207066481.jpg",
+            "medium": "https://medium-media.vgm.io/albums/88/6988/6988-1207066481.jpg",
+            "name": "Obi  Front",
+            "thumb": "https://thumb-media.vgm.io/albums/88/6988/6988-1207066481.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/88/6988/6988-1207066483.jpg",
+            "medium": "https://medium-media.vgm.io/albums/88/6988/6988-1207066483.jpg",
+            "name": "Obi Back",
+            "thumb": "https://thumb-media.vgm.io/albums/88/6988/6988-1207066483.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "59:49",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "Legend of Mana ~Title Theme~",
+                        "Japanese": "Legend of Mana ~Title Theme~"
+                    },
+                    "track_length": "3:38"
+                },
+                {
+                    "names": {
+                        "English": "Take the Offensive",
+                        "Japanese": "Take the Offensive"
+                    },
+                    "track_length": "2:54"
+                },
+                {
+                    "names": {
+                        "English": "Destati",
+                        "Japanese": "Destati"
+                    },
+                    "track_length": "3:21"
+                },
+                {
+                    "names": {
+                        "English": "Hometown Domina",
+                        "Japanese": "ホームタウン ドミナ"
+                    },
+                    "track_length": "3:13"
+                },
+                {
+                    "names": {
+                        "English": "The Bird Flies in the Sky, the Fish Swims in the River",
+                        "Japanese": "鳥児在天空飛翔 魚児在河里游泳"
+                    },
+                    "track_length": "2:18"
+                },
+                {
+                    "names": {
+                        "English": "To the Heroes of Old ~Opening Theme from HEROES of MANA~",
+                        "Japanese": "古の勇者達へ ~Opening Theme from HEROES of MANA~"
+                    },
+                    "track_length": "2:09"
+                },
+                {
+                    "names": {
+                        "English": "Twinkle Twinkle Holidays",
+                        "Japanese": "Twinkle Twinkle Holidays"
+                    },
+                    "track_length": "2:45"
+                },
+                {
+                    "names": {
+                        "English": "Tango Appassionata ~The Way This Heart Is~",
+                        "Japanese": "Tango Appassionata ~その心のままに~"
+                    },
+                    "track_length": "4:29"
+                },
+                {
+                    "names": {
+                        "English": "Colored Earth",
+                        "Japanese": "彩りの大地"
+                    },
+                    "track_length": "3:19"
+                },
+                {
+                    "names": {
+                        "English": "Forgotten Wings ~Forgotten Wings~",
+                        "Japanese": "Forgotten Wings ~忘れられた翼~"
+                    },
+                    "track_length": "5:42"
+                },
+                {
+                    "names": {
+                        "English": "The 13th Anthology",
+                        "Japanese": "The 13th Anthology"
+                    },
+                    "track_length": "6:38"
+                },
+                {
+                    "names": {
+                        "English": "Manifold Irons",
+                        "Japanese": "Manifold Irons"
+                    },
+                    "track_length": "3:01"
+                },
+                {
+                    "names": {
+                        "English": "Ruined Sparkling City",
+                        "Japanese": "滅びし煌きの都市"
+                    },
+                    "track_length": "4:50"
+                },
+                {
+                    "names": {
+                        "English": "The Other Promise",
+                        "Japanese": "The Other Promise"
+                    },
+                    "track_length": "5:07"
+                },
+                {
+                    "names": {
+                        "English": "The Tale Told by the Wind ~Ending Theme from HEROES of MANA~",
+                        "Japanese": "風が教えてくれた物語 ~Ending Theme from HEROES of MANA~"
+                    },
+                    "track_length": "3:58"
+                },
+                {
+                    "names": {
+                        "English": "Somnus",
+                        "Japanese": "Somnus"
+                    },
+                    "track_length": "2:27"
+                }
+            ]
+        }
+    ],
+    "distributor": {
+        "link": "org/136",
+        "names": {
+            "en": "Sony Music Distribution (Japan) Inc.",
+            "ja": "株式会社ソニー・ミュージックディストリビューション",
+            "ja-latn": "Sony Music Distribution (Japan) Inc."
+        },
+        "role": "distributor"
+    },
+    "link": "album/6988",
+    "lyricists": [],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2008-02-14T13:15",
+        "edited_date": "2022-05-02T23:36",
+        "fetched_date": "2022-12-28T17:13",
+        "freedb": 71,
+        "ttl": 86400,
+        "visitors": 32613
+    },
+    "name": "drammatica -The Very Best of Yoko Shimomura-",
+    "names": {
+        "en": "drammatica -The Very Best of Yoko Shimomura-",
+        "ja": "ドラマティカ | ザ・ベリーベスト オブ 下村陽子",
+        "ja-latn": "drammatica -The Very Best of Yoko Shimomura-"
+    },
+    "notes": "01. Legend of Mana ~Title Theme~ [Seiken Densetsu Legend of Mana]\n℗2008 SQUARE ENIX CO.,LTD. ©1999 SQUARE ENIX CO.,LTD.\n02. Take the Offensive [FRONT MISSION]\n℗2008 SQUARE ENIX CO.,LTD. ©1995 SQUARE ENIX CO.,LTD.\n03. Destati [KINGDOM HEARTS Series]\n℗2008 SQUARE ENIX CO.,LTD. ©Walt Disney Music Company Copyrights Renewed.\nAll Right Reserved. Internation Copyrights Secured. Rights for Japan controlled by YAMAHA MUSIC PUBLISHING, INC\n04. Hometown Domina [Seiken Densetsu Legend of Mana]\n℗2008 SQUARE ENIX CO.,LTD. ©1999 SQUARE ENIX CO.,LTD.\n05. The Bird Flies in the Sky, the Fish Swims in the River [LIVE A LIVE]\n℗2008 SQUARE ENIX CO.,LTD. ©1994 SQUARE ENIX CO.,LTD.\n06. To the Heroes of Old ~Opening Theme from HEROES of MANA~ [Seiken Densetsu HEROES of MANA]\n℗2008 SQUARE ENIX CO.,LTD. ©2007 SQUARE ENIX CO.,LTD.\n07. Twinkle Twinkle Holidays [KINGDOM HEARTS Series]\n℗2008 SQUARE ENIX CO.,LTD. ©Walt Disney Music Company Copyrights Renewed.\nAll Right Reserved. Internation Copyrights Secured. Rights for Japan controlled by YAMAHA MUSIC PUBLISHING, INC\n08. Tango Appassionata ~The Way This Heart Is~ [Seiken Densetsu HEROES of MANA]\n℗2008 SQUARE ENIX CO.,LTD. ©2007 SQUARE ENIX CO.,LTD.\n09. Colored Earth [Seiken Densetsu Legend of Mana]\n℗2008 SQUARE ENIX CO.,LTD. ©1999 SQUARE ENIX CO.,LTD.\n10. Forgotten Wings ~Forgotten Wings~ [LIVE A LIVE]\n℗2008 SQUARE ENIX CO.,LTD. ©1994 SQUARE ENIX CO.,LTD.\n11. The 13th Anthology [KINGDOM HEARTS Series]\n℗2008 SQUARE ENIX CO.,LTD. ©Walt Disney Music Company Copyrights Renewed.\nAll Right Reserved. Internation Copyrights Secured. Rights for Japan controlled by YAMAHA MUSIC PUBLISHING, INC\n12. Manifold Irons [FRONT MISSION]\n℗2008 SQUARE ENIX CO.,LTD. ©1995 SQUARE ENIX CO.,LTD.\n13. Ruined Sparkling City [Seiken Densetsu Legend of Mana]\n℗2008 SQUARE ENIX CO.,LTD. ©1999 SQUARE ENIX CO.,LTD.\n14. The Other Promise [KINGDOM HEARTS Series]\n℗2008 SQUARE ENIX CO.,LTD. ©Walt Disney Music Company Copyrights Renewed.\nAll Right Reserved. Internation Copyrights Secured. Rights for Japan controlled by YAMAHA MUSIC PUBLISHING, INC\n15. The Tale Told by the Wind ~Ending Theme from HEROES of MANA~ [Seiken Densetsu HEROES of MANA]\n℗2008 SQUARE ENIX CO.,LTD. ©2007 SQUARE ENIX CO.,LTD.\n16. Somnus [FINAL FANTASY Versus XIII]*\n℗&©2006 SQUARE ENIX CO.,LTD.\n* Game was later retitled to FINAL FANTASY XV after this album was released.\nOriginal Music Composed, Arranged & Produced by Yoko Shimomura\nOrchestrated by Natsumi Kameoka\n-Track 01-15-\nPerformed by the WDR Rundfunkorchester Köln and the Kettwiger Bach-Ensemble Essen\nConductor: Eckehard Stier / Choir Master: Wolfgang Kläsener\n1st Violin: Juraj Cizmarovic / 1st Viola: Dan Lupu\nPiano: Elzbieta Kalvelage / Bandoneon: Stephan Langenberg\nOrchestra Manager: Winfried Fechner\nRecording Producer: Stephan Cahen (Scoreworkers)\nBalance Engineer: Jin Choi (Scoreworkers)\nEdited by Stephan Cahen (Scoreworkers) at StudioSeventy-one, Düsseldorf\nMixed by Kazuhiko Misumi (Ton Meister) / Mixing Assistant: Ayako Sasaki (Ton Meister)\nProduction Coordinator in Köln: Thomas Böcker (Merregnon Studios)\nInterpreter in Köln: Kanako Böcker (Merregnon Studios)\nRecorded January 14-18, 2008 at Funkhaus Wallrafplatz Köln, Germany\nMastered by Yuka Koizumi at Studio Orange\n-Bonus Track-\nSomnus [FINAL FANTASY Versus XIII]\nComposed by Yoko Shimomura / Orchestration by Kaoru Wada\nRecording & Mixing Engineer: Masahiro Yamada\nRecorded at SOUND INN STUDIOS INC.\nRecording Coordinator: Kazuyuki Doki\nVocal: Andrea Hopkins / Lyrics: Tetsuya Nomura\nTranslation: Taro Yamashita / Lyrics Adaptation: Kazuhiro Komiya\nPiano: Shinko Ogata / Strings: Masatsugu Shinozaki Group\nProduct Manager: Masayuki Tanaka, Masashi Kitagawa\nArt Direction: Tadashi Shimada (Banana Studio)\nDesign: Tadashi Shimada, Norie Kadokura (Banana Studio)\nCover Photography: Hiroshi Shibaizumi, Mari Kurihara (Hand Made)\nProducer: Soshi Yoshida / CD Production Director: Nozomi Miyazawa\nCD Production Assistant: Satoko Amikura, Chizuru Abumiya / CD Promotion Coordinator: Akio Shiraishi\nExecutive Producer: Izumi Tsukushi\nSupervisor: Koji Taguchi\nSpecial Thanks to\nTetsuya Nomura, Ichiro Hazama, Shinji Hashimoto, Chen Patrick, Kakuko Obinata, Ryou Inakura, Yasuhiro Takamatsu,\nEmi Uesaku, Kazuki Hamamoto, Saeko Kanazawa, Shinya Kushima, Emiko Funahashi, Sachiko Ikoma, ikkku",
+    "organizations": [
+        {
+            "link": "org/112",
+            "names": {
+                "en": "SQUARE ENIX CO., LTD.",
+                "ja": "株式会社スクウェア・エニックス",
+                "ja-latn": "SQUARE ENIX CO., LTD."
+            },
+            "role": "publisher"
+        },
+        {
+            "link": "org/136",
+            "names": {
+                "en": "Sony Music Distribution (Japan) Inc.",
+                "ja": "株式会社ソニー・ミュージックディストリビューション",
+                "ja-latn": "Sony Music Distribution (Japan) Inc."
+            },
+            "role": "distributor"
+        }
+    ],
+    "performers": [
+        {
+            "link": "artist/5151",
+            "names": {
+                "en": "WDR Radio Orchestra Cologne",
+                "ja": "WDR Rundfunkorchester Köln"
+            }
+        },
+        {
+            "names": {
+                "en": "Kettwiger Bach-Ensemble Essen"
+            }
+        }
+    ],
+    "picture_full": "https://media.vgm.io/albums/88/6988/6988-1207066480.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/88/6988/6988-1207066480.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/88/6988/6988-1207066480.jpg",
+    "platforms": [
+        "Nintendo DS",
+        "Nintendo Game Boy Advance",
+        "SNES (Super Famicom)",
+        "Sony PlayStation",
+        "Sony PlayStation 2",
+        "Sony PlayStation 3"
+    ],
+    "products": [
+        {
+            "link": "product/215",
+            "names": {
+                "en": "Legend of Mana",
+                "ja": "聖剣伝説 LEGEND OF MANA",
+                "ja-latn": "Seiken Densetsu LEGEND OF MANA"
+            }
+        },
+        {
+            "link": "product/330",
+            "names": {
+                "en": "Front Mission",
+                "ja": "フロントミッション",
+                "ja-latn": "Front Mission"
+            }
+        },
+        {
+            "link": "product/236",
+            "names": {
+                "en": "Kingdom Hearts",
+                "ja": "キングダム ハーツ",
+                "ja-latn": "Kingdom Hearts"
+            }
+        },
+        {
+            "link": "product/237",
+            "names": {
+                "en": "Kingdom Hearts II",
+                "ja": "キングダムハーツII",
+                "ja-latn": "Kingdom Hearts II"
+            }
+        },
+        {
+            "link": "product/1804",
+            "names": {
+                "en": "Kingdom Hearts: Chain of Memories",
+                "ja": "キングダム ハーツ チェイン オブ メモリーズ",
+                "ja-latn": "Kingdom Hearts: Chain of Memories"
+            }
+        },
+        {
+            "link": "product/327",
+            "names": {
+                "en": "LIVE A LIVE",
+                "ja": "ライブ・ア・ライブ",
+                "ja-latn": "LIVE A LIVE"
+            }
+        },
+        {
+            "link": "product/220",
+            "names": {
+                "en": "Heroes of Mana",
+                "ja": "聖剣伝説 HEROES of MANA",
+                "ja-latn": "Seiken Densetsu HEROES of MANA"
+            }
+        },
+        {
+            "link": "release/2619",
+            "names": {
+                "en": "Final Fantasy Versus XIII",
+                "ja": "ファイナルファンタジー ヴェルサスXIII",
+                "ja-latn": "Final Fantasy Versus XIII"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/112",
+        "names": {
+            "en": "SQUARE ENIX CO., LTD.",
+            "ja": "株式会社スクウェア・エニックス",
+            "ja-latn": "SQUARE ENIX CO., LTD."
+        },
+        "role": "publisher"
+    },
+    "related": [],
+    "release_date": "2008-03-26",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 3000.0
+    },
+    "reprints": [],
+    "stores": [],
+    "vgmdb_link": "https://vgmdb.net/album/6988?perpage=99999",
+    "votes": 0,
+    "websites": {
+        "Interview": [
+            {
+                "link": "http://web.archive.org/web/20080802134421/www.music4games.net/Features_Display.aspx?id=269",
+                "name": "Interview with Kingdom Hearts composer Yoko Shimomura (archived)"
+            }
+        ],
+        "Official": [
+            {
+                "link": "http://www.square-enix.co.jp/music/sem/page/drammatica/main.html",
+                "name": "drammatica -The Very Best of Yoko Shimomura-"
+            }
+        ],
+        "Review": [
+            {
+                "link": "https://www.rpgfan.com/music-review/drammatica-the-very-best-of-yoko-shimomura/",
+                "name": "RPGFan's Review (Patrick)"
+            },
+            {
+                "link": "http://www.squareenixmusic.com/reviews/resk/drammatica.shtml",
+                "name": "SEMO's Review (Resk)"
+            }
+        ]
+    }
+}

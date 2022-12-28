@@ -1,0 +1,245 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/797",
+            "names": {
+                "en": "Takahito Eguchi",
+                "ja": "江口貴勅"
+            }
+        }
+    ],
+    "barcode": "4988002469444",
+    "catalog": "VICL-35750",
+    "categories": [
+        "Animation"
+    ],
+    "category": "Animation",
+    "classification": "Vocal",
+    "composers": [
+        {
+            "link": "artist/10100",
+            "names": {
+                "en": "Masumi Yamazaki",
+                "ja": "山崎ますみ"
+            }
+        }
+    ],
+    "covers": [],
+    "discs": [
+        {
+            "disc_length": "14:49",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "Japanese": "Voyage",
+                        "Romaji": "Voyage"
+                    },
+                    "track_length": "4:17"
+                },
+                {
+                    "names": {
+                        "Japanese": "Voyage・・・めぐる時の中で",
+                        "Romaji": "Voyage...Meguru Toki no Naka de"
+                    },
+                    "track_length": "4:42"
+                },
+                {
+                    "names": {
+                        "Japanese": "Voyage (TV Version)",
+                        "Romaji": "Voyage (TV Version)"
+                    },
+                    "track_length": "1:32"
+                },
+                {
+                    "names": {
+                        "Japanese": "Voyage (Instrumental)",
+                        "Romaji": "Voyage (Instrumental)"
+                    },
+                    "track_length": "4:18"
+                }
+            ]
+        }
+    ],
+    "distributor": {
+        "link": "org/77",
+        "names": {
+            "en": "Victor Entertainment, Inc.",
+            "ja": "ビクターエンタテインメント株式会社",
+            "ja-latn": "Victor Entertainment, Inc."
+        },
+        "role": "distributor"
+    },
+    "link": "album/25985",
+    "lyricists": [
+        {
+            "link": "artist/4155",
+            "names": {
+                "en": "Mikio Sakai",
+                "ja": "酒井ミキオ"
+            }
+        }
+    ],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2011-05-09T11:44",
+        "edited_date": "2022-05-03T02:12",
+        "fetched_date": "2022-12-28T18:38",
+        "freedb": 1,
+        "ttl": 86400,
+        "visitors": 3059
+    },
+    "name": "Voyage / Inori",
+    "names": {
+        "en": "Voyage / Inori",
+        "ja": "Voyage / いのり",
+        "ja-latn": "Voyage / Inori"
+    },
+    "notes": "Opening theme to the TV animation \"Fantastic Children\".\nLyrics: Mikio Sakai\nComposition: Masumi Yamazaki\nArrangement: Takahito Eguchi\nVocal: Inori\nComputer Programming, Ac.Piano, Keyboards: Takahito Eguchi\nStrings: Hijiri Kuwano Strings\nOpera Voice: Maiko Horisawa",
+    "organizations": [
+        {
+            "link": "org/1927",
+            "names": {
+                "en": "Victor",
+                "ja": "Victor",
+                "ja-latn": "Victor"
+            },
+            "role": "label"
+        },
+        {
+            "link": "org/77",
+            "names": {
+                "en": "Victor Entertainment, Inc.",
+                "ja": "ビクターエンタテインメント株式会社",
+                "ja-latn": "Victor Entertainment, Inc."
+            },
+            "role": "manufacturer"
+        },
+        {
+            "link": "org/77",
+            "names": {
+                "en": "Victor Entertainment, Inc.",
+                "ja": "ビクターエンタテインメント株式会社",
+                "ja-latn": "Victor Entertainment, Inc."
+            },
+            "role": "distributor"
+        }
+    ],
+    "performers": [
+        {
+            "names": {
+                "en": "Inori"
+            }
+        },
+        {
+            "link": "artist/797",
+            "names": {
+                "en": "Takahito Eguchi",
+                "ja": "江口貴勅"
+            }
+        },
+        {
+            "link": "artist/7768",
+            "names": {
+                "en": "Hijiri Kuwano Strings",
+                "ja": "桑野聖ストリングス"
+            }
+        },
+        {
+            "link": "artist/3283",
+            "names": {
+                "en": "Maiko Horisawa",
+                "ja": "堀澤麻衣子"
+            }
+        }
+    ],
+    "picture_full": "https://media.vgm.io/albums/58/25985/25985-1304970597.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/58/25985/25985-1304970597.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/58/25985/25985-1304970597.jpg",
+    "products": [
+        {
+            "names": {
+                "en": "Fantastic Children"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/1927",
+        "names": {
+            "en": "Victor",
+            "ja": "Victor",
+            "ja-latn": "Victor"
+        },
+        "role": "label"
+    },
+    "related": [
+        {
+            "catalog": "VICL-35751",
+            "date": "2004-11-21",
+            "link": "album/25986",
+            "names": {
+                "en": "Mizu no Madoromi / ORIGA",
+                "ja": "水のまどろみ / ORIGA",
+                "ja-latn": "Mizu no Madoromi / ORIGA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "VICL-61525",
+            "date": "2005-01-21",
+            "link": "album/25983",
+            "names": {
+                "en": "FANTASTIC CHILDREN O.S.T. ~ Greecia Kara no Oku...",
+                "ja": "テレビ東京系アニメーション『ファンタジックチル...",
+                "ja-latn": "FANTASTIC CHILDREN O.S.T. ~ Greecia Kara no Oku..."
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "VICL-61526",
+            "date": "2005-03-02",
+            "link": "album/123655",
+            "names": {
+                "en": "Kokkuri-tou no Hitotoki ~ Borabora-sama kara no...",
+                "ja": "コックリ島のひととき～ボラボラ様からの贈りもの",
+                "ja-latn": "Kokkuri-tou no Hitotoki ~ Borabora-sama kara no..."
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "VEATP-30419",
+            "date": "2005-03-30",
+            "link": "album/123584",
+            "names": {
+                "en": "Fantastic Children: Voyage... Digital Original",
+                "ja": "ファンタジックチルドレン Voyage... 配信オリジナル",
+                "ja-latn": "Fantastic Children: Voyage... Digital Original"
+            },
+            "type": "anime"
+        }
+    ],
+    "release_date": "2004-11-21",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 1050.0
+    },
+    "reprints": [],
+    "stores": [
+        {
+            "link": "http://www.cdjapan.co.jp/detailview.html?KEY=VICL-35750",
+            "name": "CDJapan (OOP)"
+        },
+        {
+            "link": "http://www.play-asia.com/paOS-13-71-9x-49-en-70-fvu.html",
+            "name": "Play-Asia (OOP)"
+        },
+        {
+            "link": "http://www.yesasia.com/global/voyage-%E6%97%A5%E6%9C%AC%E7%89%88/1003868335-0-0-0-en/info.html",
+            "name": "YesAsia"
+        }
+    ],
+    "vgmdb_link": "https://vgmdb.net/album/25985?perpage=99999",
+    "votes": 0
+}

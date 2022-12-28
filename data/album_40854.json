@@ -1,0 +1,230 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        }
+    ],
+    "barcode": "4580325311303",
+    "catalog": "VTCL-35126",
+    "categories": [
+        "Animation"
+    ],
+    "category": "Animation",
+    "classification": "Vocal",
+    "composers": [
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        },
+        {
+            "link": "artist/633",
+            "names": {
+                "en": "Toshihiko Sahashi",
+                "ja": "佐橋俊彦"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/45/40854/40854-55e0b1e50868.jpg",
+            "medium": "https://medium-media.vgm.io/albums/45/40854/40854-55e0b1e50868.jpg",
+            "name": "Front",
+            "thumb": "https://thumb-media.vgm.io/albums/45/40854/40854-55e0b1e50868.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/45/40854/40854-49f8fcde75d8.jpg",
+            "medium": "https://medium-media.vgm.io/albums/45/40854/40854-49f8fcde75d8.jpg",
+            "name": "Disc",
+            "thumb": "https://thumb-media.vgm.io/albums/45/40854/40854-49f8fcde75d8.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/45/40854/40854-1375464257.jpg",
+            "medium": "https://medium-media.vgm.io/albums/45/40854/40854-1375464257.jpg",
+            "name": "Front",
+            "thumb": "https://thumb-media.vgm.io/albums/45/40854/40854-1375464257.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "20:17",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "Japanese": "あんなに一緒だったのに ～ReTracks",
+                        "Romaji": "Anna ni issho datta no ni ~ReTracks"
+                    },
+                    "track_length": "5:12"
+                },
+                {
+                    "names": {
+                        "Japanese": "静かな夜に ～ReTracks",
+                        "Romaji": "Shizuka na yoru ni ~ReTracks"
+                    },
+                    "track_length": "4:53"
+                },
+                {
+                    "names": {
+                        "Japanese": "あんなに一緒だったのに ～ReTracks (オリジナルカラオケ)",
+                        "Romaji": "Anna ni issho datta no ni ~ReTracks [Original Karaoke]"
+                    },
+                    "track_length": "5:16"
+                },
+                {
+                    "names": {
+                        "Japanese": "静かな夜に ～ReTracks (オリジナルカラオケ)",
+                        "Romaji": "Shizuka na yoru ni ~ReTracks [Original Karaoke]"
+                    },
+                    "track_length": "4:56"
+                }
+            ]
+        }
+    ],
+    "distributor": {
+        "link": "org/77",
+        "names": {
+            "en": "Victor Entertainment, Inc.",
+            "ja": "ビクターエンタテインメント株式会社",
+            "ja-latn": "Victor Entertainment, Inc."
+        },
+        "role": "distributor"
+    },
+    "link": "album/40854",
+    "lyricists": [
+        {
+            "link": "artist/3658",
+            "names": {
+                "en": "Chiaki Ishikawa",
+                "ja": "石川智晶"
+            }
+        },
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        }
+    ],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2013-08-02T09:11",
+        "edited_date": "2022-05-03T05:42",
+        "fetched_date": "2022-12-28T17:58",
+        "freedb": 1,
+        "ttl": 86400,
+        "visitors": 3466
+    },
+    "name": "Anna ni Issho Datta noni ~ ReTracks",
+    "names": {
+        "en": "Anna ni Issho Datta noni ~ ReTracks",
+        "ja": "あんなに一緒だったのに～ReTracks",
+        "ja-latn": "Anna ni Issho Datta noni ~ ReTracks"
+    },
+    "notes": "01\nPeformance: See-Saw\nLyrics: Chiaki Ishikawa\nComposition: Yuki Kajiura\nArrangement: Yuki Kajiura\n02\nPerformance: Lacus Clyne (Rie Tanaka)\nLyrics: Yuki Kajiura\nComposition: Toshihiko Sahashi\nArrangement: Yuki Kajiura",
+    "organizations": [
+        {
+            "link": "org/240",
+            "names": {
+                "en": "flying DOG",
+                "ja": "flying DOG",
+                "ja-latn": "flying DOG"
+            },
+            "role": "label"
+        },
+        {
+            "link": "org/2101",
+            "names": {
+                "en": "FlyingDog, Inc.",
+                "ja": "株式会社フライングドッグ",
+                "ja-latn": "FlyingDog, Inc."
+            },
+            "role": "manufacturer"
+        },
+        {
+            "link": "org/77",
+            "names": {
+                "en": "Victor Entertainment, Inc.",
+                "ja": "ビクターエンタテインメント株式会社",
+                "ja-latn": "Victor Entertainment, Inc."
+            },
+            "role": "distributor"
+        }
+    ],
+    "performers": [
+        {
+            "link": "artist/2086",
+            "names": {
+                "en": "See-Saw"
+            }
+        },
+        {
+            "link": "artist/767",
+            "names": {
+                "en": "Rie Tanaka",
+                "ja": "田中理恵"
+            }
+        }
+    ],
+    "picture_full": "https://media.vgm.io/albums/45/40854/40854-55e0b1e50868.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/45/40854/40854-55e0b1e50868.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/45/40854/40854-55e0b1e50868.jpg",
+    "platforms": [
+        "Series"
+    ],
+    "products": [
+        {
+            "link": "release/13915",
+            "names": {
+                "en": "Mobile Suit Gundam SEED HD Remaster",
+                "ja": "機動戦士ガンダムSEED HDリマスター",
+                "ja-latn": "Kidou Senshi Gundam SEED HD Remaster"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/240",
+        "names": {
+            "en": "flying DOG",
+            "ja": "flying DOG",
+            "ja-latn": "flying DOG"
+        },
+        "role": "label"
+    },
+    "related": [
+        {
+            "catalog": "VTCL-35138",
+            "date": "2012-09-19",
+            "link": "album/34308",
+            "names": {
+                "en": "Akatsuki no Kuruma ~ReTracks/Mizu no Akashi ~Re...",
+                "ja": "暁の車 ～ReTracks/水の証 ～ReTracks",
+                "ja-latn": "Akatsuki no Kuruma ~ReTracks/Mizu no Akashi ~Re..."
+            },
+            "type": "anime"
+        }
+    ],
+    "release_date": "2012-02-22",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 1155.0
+    },
+    "reprints": [],
+    "stores": [
+        {
+            "link": "http://www.cdjapan.co.jp/detailview.html?KEY=VTCL-35126",
+            "name": "CDJapan"
+        }
+    ],
+    "vgmdb_link": "https://vgmdb.net/album/40854?perpage=99999",
+    "votes": 0
+}

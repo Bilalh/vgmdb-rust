@@ -1,0 +1,295 @@
+{
+    "arrangers": [],
+    "barcode": "4582137890151",
+    "catalog": "HUCD-10015",
+    "categories": [
+        "Game"
+    ],
+    "category": "Game",
+    "classification": "Original Soundtrack",
+    "composers": [],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/74/1547/1547-e01499b25bfb.jpg",
+            "medium": "https://medium-media.vgm.io/albums/74/1547/1547-e01499b25bfb.jpg",
+            "name": "Front (digital)",
+            "thumb": "https://thumb-media.vgm.io/albums/74/1547/1547-e01499b25bfb.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/74/1547/1547-1189900837.jpg",
+            "medium": "https://medium-media.vgm.io/albums/74/1547/1547-1189900837.jpg",
+            "name": "Back",
+            "thumb": "https://thumb-media.vgm.io/albums/74/1547/1547-1189900837.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/74/1547/1547-1397919023.jpg",
+            "medium": "https://medium-media.vgm.io/albums/74/1547/1547-1397919023.jpg",
+            "name": "Booklet Front & Back",
+            "thumb": "https://thumb-media.vgm.io/albums/74/1547/1547-1397919023.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/74/1547/1547-1397919032.jpg",
+            "medium": "https://medium-media.vgm.io/albums/74/1547/1547-1397919032.jpg",
+            "name": "Disc",
+            "thumb": "https://thumb-media.vgm.io/albums/74/1547/1547-1397919032.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/74/1547/1547-1189900836.jpg",
+            "medium": "https://medium-media.vgm.io/albums/74/1547/1547-1189900836.jpg",
+            "name": "Front",
+            "thumb": "https://thumb-media.vgm.io/albums/74/1547/1547-1189900836.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "8:46",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "1st mov. Overture",
+                        "Japanese": "第一楽章　序曲"
+                    },
+                    "track_length": "0:59"
+                },
+                {
+                    "names": {
+                        "English": "2nd mov. March of a Wise man",
+                        "Japanese": "第二楽章　賢者の行進"
+                    },
+                    "track_length": "1:05"
+                },
+                {
+                    "names": {
+                        "English": "3rd mov. Road of Hope",
+                        "Japanese": "第三楽章　ロード・オブ・ホープ"
+                    },
+                    "track_length": "3:07"
+                },
+                {
+                    "names": {
+                        "English": "4th mov. Romance",
+                        "Japanese": "第四楽章　ロマンス"
+                    },
+                    "track_length": "1:41"
+                },
+                {
+                    "names": {
+                        "English": "5th mov. Road of Hope ~ Refrain",
+                        "Japanese": "第五楽章　ロード・オブ・ホープ～リフレイン"
+                    },
+                    "track_length": "1:54"
+                }
+            ]
+        }
+    ],
+    "distributor": {
+        "link": "org/324",
+        "names": {
+            "en": "avex marketing communications Inc.",
+            "ja": "エイベックス・マーケティング・コミュニケーションズ株式会社",
+            "ja-latn": "avex marketing communications Inc."
+        },
+        "role": "distributor"
+    },
+    "link": "album/1547",
+    "lyricists": [],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2006-08-14T07:01",
+        "edited_date": "2022-04-17T22:24",
+        "fetched_date": "2022-12-28T17:39",
+        "freedb": 23,
+        "ttl": 86400,
+        "visitors": 8345
+    },
+    "name": "Symphonic Poem \"Hope\"",
+    "names": {
+        "en": "Symphonic Poem \"Hope\"",
+        "ja": "交響詩「希望」",
+        "ja-latn": "Symphonic Poem \"Hope\""
+    },
+    "notes": "Produced by Taro Hakase\nExecutive Adviser : Robby Wada\nAll compositions by Taro Hakase & Yuji Toriyama\n(Inspired by Hitoshi Sakimoto's theme)\nAll tracks & Orchestra arranged by Yuji Toriyama\nOrchestration, Orchestra arrangement & Conducted by Robin Smith\nRecorded at 517 studio (Tokyo), Abbey Road Studio (London)\nRecorded by Shigeki Kashii (I to I Communications), Jonathan Allen (Abbey Road Studio)\nAssistant Engineers : Ryu Kawashima, Rolland Heap (Abbey Road Studio)\nMixed by Shigeki Kashii\nMixed at 517 Studio\nMastered by Yuka Koizumi (Orange)\nMastered at Orange\nMusicians\nYuji Toriyama : Guitars, All Instruments & Programming with \"Cubase SX3\"\nRoyal Philharmonic Orchestra\nYuji Toriyama appears by the courtesy of Sony Music Records Inc.\nArt Direction : Taro Hakase & Koichi Tominuki (ROOTS)\nDesign : Koichi Tominuki (ROOTS)\nExecutive Producers : Michio Okamiya (Square Enix)\n                                Katsumi Ohtani (\"HATS\")\n                                Miho Kitagawa (Ein Associates)\n                                Hiroshi Inagaki (avex Entertainment Inc.)\nAdditional catalog number: HUCX-10015",
+    "organizations": [
+        {
+            "link": "org/205",
+            "names": {
+                "en": "HATS UNLIMITED",
+                "ja": "HATS UNLIMITED",
+                "ja-latn": "HATS UNLIMITED"
+            },
+            "role": "publisher"
+        },
+        {
+            "link": "org/324",
+            "names": {
+                "en": "avex marketing communications Inc.",
+                "ja": "エイベックス・マーケティング・コミュニケーションズ株式会社",
+                "ja-latn": "avex marketing communications Inc."
+            },
+            "role": "manufacturer"
+        },
+        {
+            "link": "org/324",
+            "names": {
+                "en": "avex marketing communications Inc.",
+                "ja": "エイベックス・マーケティング・コミュニケーションズ株式会社",
+                "ja-latn": "avex marketing communications Inc."
+            },
+            "role": "distributor"
+        }
+    ],
+    "performers": [
+        {
+            "link": "artist/4590",
+            "names": {
+                "en": "Royal Philharmonic Orchestra"
+            }
+        }
+    ],
+    "picture_full": "https://media.vgm.io/albums/74/1547/1547-e01499b25bfb.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/74/1547/1547-e01499b25bfb.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/74/1547/1547-e01499b25bfb.jpg",
+    "platforms": [
+        "Sony PlayStation 2"
+    ],
+    "products": [
+        {
+            "link": "product/198",
+            "names": {
+                "en": "FINAL FANTASY XII",
+                "ja": "ファイナルファンタジーXII",
+                "ja-latn": "FINAL FANTASY XII"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/205",
+        "names": {
+            "en": "HATS UNLIMITED",
+            "ja": "HATS UNLIMITED",
+            "ja-latn": "HATS UNLIMITED"
+        },
+        "role": "publisher"
+    },
+    "related": [
+        {
+            "catalog": "TOF-033",
+            "link": "album/118148",
+            "names": {
+                "en": "Selections from FINAL FANTASY XII - SAMPLER CD",
+                "ja": "Selections from FINAL FANTASY XII - SAMPLER CD",
+                "ja-latn": "Selections from FINAL FANTASY XII - SAMPLER CD"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "HUCD-10014/B",
+            "link": "album/3450",
+            "names": {
+                "en": "Symphonic Poem \"Hope\" [Limited Edition]",
+                "ja": "交響詩「希望」",
+                "ja-latn": "Symphonic Poem \"Hope\" [Limited Edition]"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ESCL-2810",
+            "link": "album/1536",
+            "names": {
+                "en": "Kiss Me Good-Bye / Angela Aki",
+                "ja": "Kiss Me Good-Bye / Angela Aki",
+                "ja-latn": "Kiss Me Good-Bye / Angela Aki"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ESCL-2808~9",
+            "link": "album/6741",
+            "names": {
+                "en": "Kiss Me Good-Bye / Angela Aki [Limited Edition]",
+                "ja": "Kiss Me Good-Bye / Angela Aki [Limited Edition]",
+                "ja-latn": "Kiss Me Good-Bye / Angela Aki [Limited Edition]"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SEMO-00014",
+            "link": "album/8057",
+            "names": {
+                "en": "The Best of FINAL FANTASY XII Original Soundtrack",
+                "ja": "The Best of FINAL FANTASY XII Original Soundtrack",
+                "ja-latn": "The Best of FINAL FANTASY XII Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ESUL-10010",
+            "link": "album/119317",
+            "names": {
+                "en": "Kiss Me Good-Bye / Angela Aki",
+                "ja": "Kiss Me Good-Bye / アンジェラ・アキ",
+                "ja-latn": "Kiss Me Good-Bye / Angela Aki"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SVWC-7351~4",
+            "link": "album/1531",
+            "names": {
+                "en": "FINAL FANTASY XII Original Soundtrack [Limited ...",
+                "ja": "ファイナルファンタジーXII　オリジナル・サウンド...",
+                "ja-latn": "FINAL FANTASY XII Original Soundtrack [Limited ..."
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ESCL-2848~9",
+            "link": "album/101723",
+            "names": {
+                "en": "Home / Angela Aki [Limited Edition]",
+                "ja": "Home / アンジェラ・アキ",
+                "ja-latn": "Home / Angela Aki [Limited Edition]"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "TOF-033",
+            "link": "album/8006",
+            "names": {
+                "en": "Selections from FINAL FANTASY XII Original Soun...",
+                "ja": "Selections from FINAL FANTASY XII Original Soun...",
+                "ja-latn": "Selections from FINAL FANTASY XII Original Soun..."
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "MTSC-6",
+            "link": "album/4728",
+            "names": {
+                "en": "Over the Sky -FINAL FANTASY XII-",
+                "ja": "オーバー ザ スカイ -ファイナルファンタジーXII-",
+                "ja-latn": "Over the Sky -FINAL FANTASY XII-"
+            },
+            "type": "doujin"
+        }
+    ],
+    "release_date": "2006-03-01",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 1050.0
+    },
+    "reprints": [],
+    "vgmdb_link": "https://vgmdb.net/album/1547?perpage=99999",
+    "votes": 0,
+    "websites": {
+        "Review": [
+            {
+                "link": "http://www.rpgfan.com/soundtracks/ff12-hope/index.html",
+                "name": "RPGFan's Review"
+            }
+        ]
+    }
+}

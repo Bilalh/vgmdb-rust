@@ -1,0 +1,450 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/300",
+            "names": {
+                "en": "Michiru Oshima",
+                "ja": "大島ミチル"
+            }
+        }
+    ],
+    "barcode": "4935228181339",
+    "catalog": "ZMCZ-12791",
+    "categories": [
+        "Animation"
+    ],
+    "category": "Animation",
+    "classification": "Original Soundtrack",
+    "composers": [
+        {
+            "link": "artist/300",
+            "names": {
+                "en": "Michiru Oshima",
+                "ja": "大島ミチル"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/41/81114/81114-1545216752.jpg",
+            "medium": "https://medium-media.vgm.io/albums/41/81114/81114-1545216752.jpg",
+            "name": "Front",
+            "thumb": "https://thumb-media.vgm.io/albums/41/81114/81114-1545216752.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/41/81114/81114-1545209553.jpg",
+            "medium": "https://medium-media.vgm.io/albums/41/81114/81114-1545209553.jpg",
+            "name": "Back",
+            "thumb": "https://thumb-media.vgm.io/albums/41/81114/81114-1545209553.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/41/81114/81114-1545209541.jpg",
+            "medium": "https://medium-media.vgm.io/albums/41/81114/81114-1545209541.jpg",
+            "name": "Booklet Front & Back",
+            "thumb": "https://thumb-media.vgm.io/albums/41/81114/81114-1545209541.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/41/81114/81114-1545209566.jpg",
+            "medium": "https://medium-media.vgm.io/albums/41/81114/81114-1545209566.jpg",
+            "name": "Disc",
+            "thumb": "https://thumb-media.vgm.io/albums/41/81114/81114-1545209566.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "68:45",
+            "name": "Disc 1 [TGCS-11022]",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "Rustling Wind and Dappled Sunlight",
+                        "Japanese": "そよぐ風と木漏れ日"
+                    },
+                    "track_length": "1:36"
+                },
+                {
+                    "names": {
+                        "English": "In the Shadows of the Sunbeams",
+                        "Japanese": "木漏れ日の影で"
+                    },
+                    "track_length": "1:39"
+                },
+                {
+                    "names": {
+                        "English": "Unchanging Road",
+                        "Japanese": "変わらない道"
+                    },
+                    "track_length": "2:19"
+                },
+                {
+                    "names": {
+                        "English": "Because I'm Not Upfront",
+                        "Japanese": "素直じゃないんだから"
+                    },
+                    "track_length": "1:42"
+                },
+                {
+                    "names": {
+                        "English": "Wandering Thoughts",
+                        "Japanese": "回遊する想い"
+                    },
+                    "track_length": "1:56"
+                },
+                {
+                    "names": {
+                        "English": "Raging Rain",
+                        "Japanese": "遣らず雨"
+                    },
+                    "track_length": "1:43"
+                },
+                {
+                    "names": {
+                        "English": "You Can Stay the Way You Are",
+                        "Japanese": "君はそのままでいいんだよ"
+                    },
+                    "track_length": "2:16"
+                },
+                {
+                    "names": {
+                        "English": "A Time for Remembrance",
+                        "Japanese": "追憶のとき"
+                    },
+                    "track_length": "1:54"
+                },
+                {
+                    "names": {
+                        "English": "Sunrise",
+                        "Japanese": "朝陽"
+                    },
+                    "track_length": "2:23"
+                },
+                {
+                    "names": {
+                        "English": "In the Afternoon",
+                        "Japanese": "昼過ぎて"
+                    },
+                    "track_length": "1:48"
+                },
+                {
+                    "names": {
+                        "English": "The Student Council Room at Dusk",
+                        "Japanese": "夕暮れの生徒会室"
+                    },
+                    "track_length": "1:36"
+                },
+                {
+                    "names": {
+                        "English": "Trance",
+                        "Japanese": "ゆめうつつ"
+                    },
+                    "track_length": "1:49"
+                },
+                {
+                    "names": {
+                        "English": "Waltz in Bloom",
+                        "Japanese": "ワルツ・イン・ブルーム"
+                    },
+                    "track_length": "1:41"
+                },
+                {
+                    "names": {
+                        "English": "Chasing Hope",
+                        "Japanese": "希望を追いかけて"
+                    },
+                    "track_length": "1:52"
+                },
+                {
+                    "names": {
+                        "English": "Skyward Scherzo",
+                        "Japanese": "飛翔のスケルツォ"
+                    },
+                    "track_length": "1:45"
+                },
+                {
+                    "names": {
+                        "English": "A Couple of Sighs",
+                        "Japanese": "ふたつの吐息"
+                    },
+                    "track_length": "1:38"
+                },
+                {
+                    "names": {
+                        "English": "Crimson Dyed",
+                        "Japanese": "朱に染まる"
+                    },
+                    "track_length": "1:40"
+                },
+                {
+                    "names": {
+                        "English": "About to Be Trifled With",
+                        "Japanese": "翻弄されそう"
+                    },
+                    "track_length": "1:36"
+                },
+                {
+                    "names": {
+                        "English": "\"What Is This Thing Called Love?\"",
+                        "Japanese": "「恋とはこんなものかしら」"
+                    },
+                    "track_length": "1:38"
+                },
+                {
+                    "names": {
+                        "English": "Embrace",
+                        "Japanese": "抱擁"
+                    },
+                    "track_length": "1:45"
+                },
+                {
+                    "names": {
+                        "English": "I Don't Understand the Meaning of \"Special\"",
+                        "Japanese": "特別がわからない"
+                    },
+                    "track_length": "1:38"
+                },
+                {
+                    "names": {
+                        "English": "Never Fall in Love with Me",
+                        "Japanese": "私を好きにならないで"
+                    },
+                    "track_length": "2:22"
+                },
+                {
+                    "names": {
+                        "English": "Touko Nanami's Confusion",
+                        "Japanese": "七海燈子の戸惑い"
+                    },
+                    "track_length": "2:14"
+                },
+                {
+                    "names": {
+                        "English": "Expectations and Anxiety",
+                        "Japanese": "期待と不安"
+                    },
+                    "track_length": "1:55"
+                },
+                {
+                    "names": {
+                        "English": "Repressed Memories",
+                        "Japanese": "しまいこんだ記憶"
+                    },
+                    "track_length": "1:21"
+                },
+                {
+                    "names": {
+                        "English": "Gray Sky",
+                        "Japanese": "灰色の空"
+                    },
+                    "track_length": "1:56"
+                },
+                {
+                    "names": {
+                        "English": "Wavering Night",
+                        "Japanese": "揺らぐ夜"
+                    },
+                    "track_length": "1:48"
+                },
+                {
+                    "names": {
+                        "English": "Premonition of Parting",
+                        "Japanese": "別れの予感"
+                    },
+                    "track_length": "2:18"
+                },
+                {
+                    "names": {
+                        "English": "Dilemma",
+                        "Japanese": "ジレンマ"
+                    },
+                    "track_length": "1:56"
+                },
+                {
+                    "names": {
+                        "English": "Earnest Wish",
+                        "Japanese": "切なる願い"
+                    },
+                    "track_length": "3:00"
+                },
+                {
+                    "names": {
+                        "English": "A Wound of the Heart",
+                        "Japanese": "心に負った傷"
+                    },
+                    "track_length": "2:09"
+                },
+                {
+                    "names": {
+                        "English": "Embracing Loneliness",
+                        "Japanese": "孤独を抱いて"
+                    },
+                    "track_length": "2:00"
+                },
+                {
+                    "names": {
+                        "English": "Festering Thoughts",
+                        "Japanese": "想いが募る"
+                    },
+                    "track_length": "2:11"
+                },
+                {
+                    "names": {
+                        "English": "I Want to See You",
+                        "Japanese": "君に会いたくて"
+                    },
+                    "track_length": "1:47"
+                },
+                {
+                    "names": {
+                        "English": "I'll Reach You Someday",
+                        "Japanese": "いつか届くように"
+                    },
+                    "track_length": "1:11"
+                },
+                {
+                    "names": {
+                        "English": "I Want to Know You Once More",
+                        "Japanese": "もういちど、君を知りたい"
+                    },
+                    "track_length": "2:11"
+                },
+                {
+                    "names": {
+                        "English": "Eyecatch 1",
+                        "Japanese": "アイキャッチ1"
+                    },
+                    "track_length": "0:11"
+                },
+                {
+                    "names": {
+                        "English": "Eyecatch 2",
+                        "Japanese": "アイキャッチ2"
+                    },
+                    "track_length": "0:11"
+                },
+                {
+                    "names": {
+                        "English": "Eyecatch 3",
+                        "Japanese": "アイキャッチ3"
+                    },
+                    "track_length": "0:10"
+                }
+            ]
+        }
+    ],
+    "distributor": {
+        "link": "org/535",
+        "names": {
+            "en": "KADOKAWA CORPORATION",
+            "ja": "株式会社KADOKAWA",
+            "ja-latn": "KADOKAWA CORPORATION"
+        },
+        "role": "distributor"
+    },
+    "link": "album/81114",
+    "lyricists": [],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2018-10-04T21:55",
+        "edited_date": "2022-05-03T16:03",
+        "fetched_date": "2022-12-28T17:20",
+        "freedb": 4,
+        "ttl": 86400,
+        "visitors": 5883
+    },
+    "name": "TV ANIMATION Bloom Into You ORIGINAL SOUND TRACK",
+    "names": {
+        "en": "TV ANIMATION Bloom Into You ORIGINAL SOUND TRACK",
+        "ja": "TVアニメ「やがて君になる」オリジナル・サウンドトラック",
+        "ja-latn": "TV Anime \"Yagate Kimi ni Naru\" Original Soundtrack"
+    },
+    "notes": "composer, arranger, conductor: Michiru Oshima\nrecording engineer: Todd Carder Assistant, Andy Plovnick\nmixing engineer: Satoshi Mark Noguchi\nstudio: Bunker Studio Recording\nrecording coordinator & supervisor: Tomoko Akaboshi\nmusicians coordinator: Sho Omagari\nperformance: Brown Label Philharmonic Ensemble\n   piano: Ari Livne\n   flute: Ray Furuta\n   clarinet: Artemis Cheung, Dylan James\n   s. sax: Justin Vance\n   harp: Jane Yoon\n   violin I: Sho Omagari concertmaster, Alex Shiozaki, Lauren Kalal, Audrey Lo, Blanca-Cecilia Gonzalez, Amos Lee\n   violin II: Regi Papa Principal, Ye-jin Han, Ann SunHyung Kim, Tomoko Akaboshi\n   viola: Nicole Wright Principal, Heather Faust, Howard Cheng\n   cello: Michael Katz Principal, Brian Sanders, Mark Bassett\n   bass: Nick Cathcart Principal, Man Wai Che\nartist management: Mika Yamakawa & Yui Kayatama (Rock River Co., Ltd)\nmastering engineer: Masato Morisaki\nmastering studio: Aoyama Studio Vision\nillustration: Hiroaki Goda\nback ground: Akira Ito\ncolor coordination & check: Mariko Shinohara\nfinish: Tomonori Kato\ndesign & package product management: Kentaro Hayashi Design Office\npackage product director: Mieko Tsuruta (Sony Music Communications Inc.)\npromoter: Keiichi Takizawa & 柴田夏実 (KADOKAWA)\npackage promoter: Saori Takeyama (KADOKAWA)\nsales promoter: Takuya Nakayama & Ayako Kimura (KADOKAWA)\nmusic producer: Gou Wakabayashi (KADOKAWA)\npackage producer: Chieko Mizutori (KADOKAWA)\nexecutive producer: Takeshi Kikuchi (KADOKAWA)\nspecial thanks to\nNio Nakatani, MONTHLY COMIC DENGEKI DAIOH Editorial Department, Bloom Into You PARTNERS",
+    "organizations": [
+        {
+            "link": "org/1964",
+            "names": {
+                "en": "KADOKAWA",
+                "ja": "KADOKAWA",
+                "ja-latn": "KADOKAWA"
+            },
+            "role": "label"
+        },
+        {
+            "link": "org/535",
+            "names": {
+                "en": "KADOKAWA CORPORATION",
+                "ja": "株式会社KADOKAWA",
+                "ja-latn": "KADOKAWA CORPORATION"
+            },
+            "role": "publisher"
+        },
+        {
+            "link": "org/535",
+            "names": {
+                "en": "KADOKAWA CORPORATION",
+                "ja": "株式会社KADOKAWA",
+                "ja-latn": "KADOKAWA CORPORATION"
+            },
+            "role": "distributor"
+        }
+    ],
+    "performers": [],
+    "picture_full": "https://media.vgm.io/albums/41/81114/81114-1545216752.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/41/81114/81114-1545216752.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/41/81114/81114-1545216752.jpg",
+    "platforms": [
+        "Series"
+    ],
+    "products": [
+        {
+            "link": "product/6653",
+            "names": {
+                "en": "Bloom Into You",
+                "ja": "やがて君になる",
+                "ja-latn": "Yagate Kimi ni Naru"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/1964",
+        "names": {
+            "en": "KADOKAWA",
+            "ja": "KADOKAWA",
+            "ja-latn": "KADOKAWA"
+        },
+        "role": "label"
+    },
+    "related": [
+        {
+            "catalog": "ZMCZ-12648",
+            "date": "2018-11-28",
+            "link": "album/80208",
+            "names": {
+                "en": "Kimi ni Furete / Riko Azuna",
+                "ja": "君にふれて / 安月名莉子",
+                "ja-latn": "Kimi ni Furete / Riko Azuna"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ZMCZ-12649",
+            "date": "2018-11-28",
+            "link": "album/80209",
+            "names": {
+                "en": "hectopascal / Yuu Koito (CV: Yuuki Takada) & To...",
+                "ja": "hectopascal / 小糸侑 (CV:高田憂希)&七海燈子 (CV...",
+                "ja-latn": "hectopascal / Yuu Koito (CV: Yuuki Takada) & To..."
+            },
+            "type": "anime"
+        }
+    ],
+    "release_date": "2018-12-19",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 3240.0
+    },
+    "reprints": [],
+    "vgmdb_link": "https://vgmdb.net/album/81114?perpage=99999",
+    "votes": 0
+}

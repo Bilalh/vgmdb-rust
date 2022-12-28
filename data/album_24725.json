@@ -1,0 +1,330 @@
+{
+    "arrangers": [],
+    "barcode": "4534530045539",
+    "catalog": "ANZX-9124",
+    "categories": [
+        "Animation"
+    ],
+    "category": "Animation",
+    "classification": "Original Soundtrack",
+    "composers": [],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/52/24725/24725-1451034746.jpg",
+            "medium": "https://medium-media.vgm.io/albums/52/24725/24725-1451034746.jpg",
+            "name": "Disc",
+            "thumb": "https://thumb-media.vgm.io/albums/52/24725/24725-1451034746.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/52/24725/24725-1451034833.jpg",
+            "medium": "https://medium-media.vgm.io/albums/52/24725/24725-1451034833.jpg",
+            "name": "Front",
+            "thumb": "https://thumb-media.vgm.io/albums/52/24725/24725-1451034833.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "28:10",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "You Should Be a Magical Girl!",
+                        "Latin": "Sis puella magica!"
+                    },
+                    "track_length": "2:48"
+                },
+                {
+                    "names": {
+                        "English": "Greetings, Worlds of Magic",
+                        "Latin": "Salve, terrae magicae"
+                    },
+                    "track_length": "1:29"
+                },
+                {
+                    "names": {
+                        "English": "Hindered Steps",
+                        "Latin": "Gradus prohibitus"
+                    },
+                    "track_length": "3:36"
+                },
+                {
+                    "names": {
+                        "English": "Believing in Justice",
+                        "Latin": "Credens justitiam"
+                    },
+                    "track_length": "1:56"
+                },
+                {
+                    "names": {
+                        "English": "Compassion",
+                        "Latin": "Clementia"
+                    },
+                    "track_length": "1:58"
+                },
+                {
+                    "names": {
+                        "English": "Longing",
+                        "Latin": "Desiderium"
+                    },
+                    "track_length": "1:42"
+                },
+                {
+                    "names": {
+                        "English": "Disorder",
+                        "Latin": "Conturbatio"
+                    },
+                    "track_length": "1:28"
+                },
+                {
+                    "names": {
+                        "English": "In the Afternoon",
+                        "Latin": "Postmeridie"
+                    },
+                    "track_length": "1:39"
+                },
+                {
+                    "names": {
+                        "English": "The Girl in the Dream",
+                        "Latin": "Puella in somnio"
+                    },
+                    "track_length": "1:57"
+                },
+                {
+                    "names": {
+                        "English": "Black Shadow",
+                        "Latin": "Umbra nigra"
+                    },
+                    "track_length": "1:43"
+                },
+                {
+                    "names": {
+                        "English": "Clinging Terror",
+                        "Latin": "Terror adhaerens"
+                    },
+                    "track_length": "3:49"
+                },
+                {
+                    "names": {
+                        "English": "Happy Scene",
+                        "Latin": "Scaena felix"
+                    },
+                    "track_length": "1:50"
+                },
+                {
+                    "names": {
+                        "English": "Duel with a Witch",
+                        "Latin": "Pugna cum maga"
+                    },
+                    "track_length": "2:15"
+                }
+            ]
+        }
+    ],
+    "distributor": {
+        "link": "org/136",
+        "names": {
+            "en": "Sony Music Distribution (Japan) Inc.",
+            "ja": "株式会社ソニー・ミュージックディストリビューション",
+            "ja-latn": "Sony Music Distribution (Japan) Inc."
+        },
+        "role": "distributor"
+    },
+    "link": "album/24725",
+    "lyricists": [],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2011-03-17T12:41",
+        "edited_date": "2022-08-08T12:20",
+        "fetched_date": "2022-12-28T17:39",
+        "freedb": 21,
+        "ttl": 86400,
+        "visitors": 20252
+    },
+    "name": "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I",
+    "names": {
+        "en": "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I",
+        "ja": "魔法少女まどか☆マギカ オリジナルサウンドトラックCD Vol.1",
+        "ja-latn": "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I"
+    },
+    "notes": "MUSICIANS\nALL Keyboard & Programming = Yuki Kajiura\nVocal & Chorus = Eri Itoh (M1,4), Yuriko Kaida (M4)\nPiano = Haruki Mino (M6)\nFlute = Rie Akagi (M1)\nOboe = Masakazu Ishibashi (M5)\nGuitar = Koichi Korenaga (M13)\nAcoustic Guitar = Koichiro Tashiro (M1,2,8)\nDrums = Kyoichi Sato (M13)\nBass = Tomoharu \"Jr.\" Takahashi (M3)\nPercussion = Tamao Fujii (M1,2)\nCello = Masami Horisawa (M1)\nStrings = Kiyo Kido Strings (M11,13)\nManagement Stuff = Kazuki Oshima (SPACE CRAFT PRODUCE)\nManagement Desk = Koji Murakami (SPACE CRAFT PRODUCE)\nExecutive Producer = Kazuoki Ohnishi (SPACE CRAFT GROUP)\nSOUNDTRACK STAFF\nAll Songs written by Yuki Kajiura\nProducer = Yasunori Mori (SPACE CRAFT PRODUCE)\nRecording & Mixing Engineer = Takashi Koiwa (SIGN SOUND)\nRecording Engineer = Yoichiro Kano (MIXER'S LAB), Mitsunori Aizawa (Studio SoundValley)\nAssistant Engineer = Kouzou Miyamoto (Studio SoundValley), Mitsutaka Seki (WARNER MUSIC RECORDING STUDIO)\nRecording Studio = Studio SoundValley, WARNER MUSIC RECORDING STUDIO\nMusicians Coordination = Fumio Takano, Shizuka Iwasawa (Tokyo Shitsunaigaku Kyokai)\nScore Support = Hiromitsu Ishikawa\nMastering Engineer = Machiko Suzue (Sony Music Studios Tokyo)\nMastering Studio = Sony Music Studios Tokyo\nTracklist Translator = 前川裕, Ikuko Ebata\nSPECIAL THANKS\nKei Fukuchi (Halftone Music & Craft), Emi Nakajima (Legato Music), Mayumi Torihata (SIGN SOUND), Masataka Ito (Studio SoundValley), 高山淳子 (WARNER MUSIC RECORDING STUDIO), Kei Hasegawa (SME Records), Keiichi Tonomura (Sony Music Entertainment)\nPRODUCT STAFF\nAuthoring, Encoding Engineer = 臼杵光顕 (IMAGICA)\nAuthoring Coordinator = 長澤和典 (IMAGICA)\nMenu Design = Michiyasu Kido\nJacket Illustration = Takahiro Kishida\nColoring = SHAFT\nBackground = INSPIRED\nArt Direction = Yohei Sometani (BALCOLONY.)\nProduct Coordinator = Yukiko Matsunaga, Yoko Yanase\nPromotion = Manabu Jinguji\nSales Promotion = Toshiyuki Kanazawa, Shino Yasuda\nProducer = Atsuhiro Iwakami\nDirector = Shinichiro Kashiwada, Akiko Yodo\nEnclosed with Puella Magi Madoka☆Magica Vol.2 Limited Edition BD/DVD (ANZX-9123/ANZB-9123).",
+    "organizations": [
+        {
+            "link": "org/86",
+            "names": {
+                "en": "Aniplex",
+                "ja": "Aniplex",
+                "ja-latn": "Aniplex"
+            },
+            "role": "label"
+        },
+        {
+            "link": "org/2206",
+            "names": {
+                "en": "Aniplex Inc.",
+                "ja": "株式会社アニプレックス",
+                "ja-latn": "Aniplex Inc."
+            },
+            "role": "manufacturer"
+        },
+        {
+            "link": "org/136",
+            "names": {
+                "en": "Sony Music Distribution (Japan) Inc.",
+                "ja": "株式会社ソニー・ミュージックディストリビューション",
+                "ja-latn": "Sony Music Distribution (Japan) Inc."
+            },
+            "role": "distributor"
+        }
+    ],
+    "performers": [],
+    "picture_full": "https://media.vgm.io/albums/52/24725/24725-1451034746.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/52/24725/24725-1451034746.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/52/24725/24725-1451034746.jpg",
+    "platforms": [
+        "Series"
+    ],
+    "products": [
+        {
+            "link": "product/893",
+            "names": {
+                "en": "Puella Magi Madoka☆Magica",
+                "ja": "魔法少女まどか☆マギカ",
+                "ja-latn": "Mahou Shoujo Madoka☆Magica"
+            }
+        }
+    ],
+    "publish_format": "Commercial, Enclosure",
+    "publisher": {
+        "link": "org/86",
+        "names": {
+            "en": "Aniplex",
+            "ja": "Aniplex",
+            "ja-latn": "Aniplex"
+        },
+        "role": "label"
+    },
+    "related": [
+        {
+            "catalog": "SECL-942",
+            "link": "album/23389",
+            "names": {
+                "en": "Magia / Kalafina [Limited Edition]",
+                "ja": "Magia / Kalafina [Limited Edition]",
+                "ja-latn": "Magia / Kalafina [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "PLR-002",
+            "link": "album/25666",
+            "names": {
+                "en": "Madoka E.P.",
+                "ja": "Madoka E.P.",
+                "ja-latn": "Madoka E.P."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ANZX-9122",
+            "link": "album/30302",
+            "names": {
+                "en": "Puella Magi Madoka Magica Special CD 1 Drama CD...",
+                "ja": "魔法少女まどか☆マギカ ドラマ CD メモリーズオブユー",
+                "ja-latn": "Puella Magi Madoka Magica Special CD 1 Drama CD..."
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "TAM3-0076",
+            "link": "album/26646",
+            "names": {
+                "en": "Puella Musica",
+                "ja": "プエラ　ムジカ",
+                "ja-latn": "Puella Musica"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ANZX-9126",
+            "link": "album/39132",
+            "names": {
+                "en": "Puella Magi Madoka Magica Special CD 3 Original...",
+                "ja": "魔法少女まどか☆マギカ ドラマ CD サニーデイライフ",
+                "ja-latn": "Puella Magi Madoka Magica Special CD 3 Original..."
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "SBCV-80091",
+            "link": "album/51689",
+            "names": {
+                "en": "Puella Magi Madoka Magica \"Mahou Shoujotachi no...",
+                "ja": "魔法少女まどか☆マギカ『魔法少女たちのお茶会』",
+                "ja-latn": "Puella Magi Madoka Magica \"Mahou Shoujotachi no..."
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "DACD-008/USN-0027",
+            "link": "album/50849",
+            "names": {
+                "en": "Keiyaku",
+                "ja": "契約",
+                "ja-latn": "Keiyaku"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CJVK-0006",
+            "link": "album/27170",
+            "names": {
+                "en": "Puella Magi Madoka Magica tribute \"sǝʌol\"",
+                "ja": "Puella Magi Madoka Magica tribute \"sǝʌol\"",
+                "ja-latn": "Puella Magi Madoka Magica tribute \"sǝʌol\""
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PAER-0036",
+            "link": "album/27483",
+            "names": {
+                "en": "MMM",
+                "ja": "MMM",
+                "ja-latn": "MMM"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ANZX-9128",
+            "link": "album/26837",
+            "names": {
+                "en": "Puella Magi Madoka Magica Special CD 4 Original...",
+                "ja": "魔法少女まどか☆マギカ オリジナルサウンドトラッ...",
+                "ja-latn": "Puella Magi Madoka Magica Special CD 4 Original..."
+            },
+            "type": "bonus"
+        }
+    ],
+    "release_date": "2011-05-25",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 7350.0
+    },
+    "reprints": [
+        {
+            "catalog": "AOA-1201L",
+            "link": "album/39129",
+            "note": "U.S., Feb 14, 2012"
+        }
+    ],
+    "stores": [
+        {
+            "link": "http://music.apple.com/jp/album/575591707",
+            "name": "iTunes JP (digital download)"
+        }
+    ],
+    "vgmdb_link": "https://vgmdb.net/album/24725?perpage=99999",
+    "votes": 0
+}

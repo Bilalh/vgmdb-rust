@@ -1,0 +1,293 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/114",
+            "names": {
+                "en": "Koichi Sugiyama",
+                "ja": "すぎやまこういち"
+            }
+        }
+    ],
+    "barcode": "4988009356327",
+    "catalog": "SRCL-3563",
+    "categories": [
+        "Game"
+    ],
+    "category": "Game",
+    "classification": "Arrangement",
+    "composers": [
+        {
+            "link": "artist/114",
+            "names": {
+                "en": "Koichi Sugiyama",
+                "ja": "すぎやまこういち"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/54/6445/6445-1199218431.jpg",
+            "medium": "https://medium-media.vgm.io/albums/54/6445/6445-1199218431.jpg",
+            "name": "Booklet Front",
+            "thumb": "https://thumb-media.vgm.io/albums/54/6445/6445-1199218431.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/54/6445/6445-1199231251.jpg",
+            "medium": "https://medium-media.vgm.io/albums/54/6445/6445-1199231251.jpg",
+            "name": "Back",
+            "thumb": "https://thumb-media.vgm.io/albums/54/6445/6445-1199231251.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/54/6445/6445-1199231250.jpg",
+            "medium": "https://medium-media.vgm.io/albums/54/6445/6445-1199231250.jpg",
+            "name": "Front",
+            "thumb": "https://thumb-media.vgm.io/albums/54/6445/6445-1199231250.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "52:06",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "Roto",
+                        "Japanese": "ロトのテーマ"
+                    },
+                    "track_length": "1:41"
+                },
+                {
+                    "names": {
+                        "English": "Prologue",
+                        "Japanese": "まどろみの中で"
+                    },
+                    "track_length": "3:58"
+                },
+                {
+                    "names": {
+                        "English": "Rondo",
+                        "Japanese": "王宮のロンド"
+                    },
+                    "track_length": "2:59"
+                },
+                {
+                    "names": {
+                        "English": "Around the World",
+                        "Japanese": "世界をまわる (街～ジパング～ピラミッド～村)"
+                    },
+                    "track_length": "6:48"
+                },
+                {
+                    "names": {
+                        "English": "Adventure",
+                        "Japanese": "冒険の旅"
+                    },
+                    "track_length": "3:09"
+                },
+                {
+                    "names": {
+                        "English": "Dungeon ~ Tower ~ The Phantom Ship",
+                        "Japanese": "ダンジョン～塔～幽霊船"
+                    },
+                    "track_length": "5:34"
+                },
+                {
+                    "names": {
+                        "English": "Distant Memories",
+                        "Japanese": "回想"
+                    },
+                    "track_length": "2:52"
+                },
+                {
+                    "names": {
+                        "English": "Requiem ~ Small Shrine",
+                        "Japanese": "鎮魂歌～ほこら"
+                    },
+                    "track_length": "3:11"
+                },
+                {
+                    "names": {
+                        "English": "Sailing",
+                        "Japanese": "海を越えて"
+                    },
+                    "track_length": "2:53"
+                },
+                {
+                    "names": {
+                        "English": "Heavenly Flight",
+                        "Japanese": "おおぞらをとぶ"
+                    },
+                    "track_length": "2:44"
+                },
+                {
+                    "names": {
+                        "English": "Grueling Fight",
+                        "Japanese": "戦いのとき"
+                    },
+                    "track_length": "4:05"
+                },
+                {
+                    "names": {
+                        "English": "Zoma's Castle",
+                        "Japanese": "ゾーマの城"
+                    },
+                    "track_length": "3:30"
+                },
+                {
+                    "names": {
+                        "English": "Fighting Spirit",
+                        "Japanese": "戦闘のテーマ～アレフガルドにて～勇者の挑戦"
+                    },
+                    "track_length": "5:41"
+                },
+                {
+                    "names": {
+                        "English": "Into the Legend",
+                        "Japanese": "そして伝説へ"
+                    },
+                    "track_length": "3:01"
+                }
+            ]
+        }
+    ],
+    "link": "album/6445",
+    "lyricists": [],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2008-01-01T12:06",
+        "edited_date": "2022-05-02T23:33",
+        "fetched_date": "2022-12-28T17:39",
+        "freedb": 18,
+        "ttl": 86400,
+        "visitors": 6389
+    },
+    "name": "Super Famicom Version Symphonic Suite Dragon Quest III: Into the Legend...",
+    "names": {
+        "en": "Super Famicom Version Symphonic Suite Dragon Quest III: Into the Legend...",
+        "ja": "スーパーファミコン版 交響組曲 「ドラゴンクエストIII」そして伝説へ...",
+        "ja-latn": "Super Famicom-ban Koukyou Kumikyoku \"Dragon Quest III\" Soshite Densetsu e..."
+    },
+    "notes": "This was recorded in conjunction with the SFC release of the game. The album was later reprinted in 2000. Note that this is actually the Third arrangement of the Dragon Quest III soundtrack for symphony, and is not a reprint, but rather a new performance by the London Philharmonic Orchestra.\n=STAFF=\nExecutive Producer: Koichi Sugiyama\nProducers: Jun Kanamaru (Sony Music Entertainment), Yukiko Sugiyama (Sugiyama Kobo)\nDirector: John Middleton\nRecording Engineer: Richard Lewzey\nAssistant Engineer: Erik Jordan\nDesign: Hideki Sawa (SME)\nCoordinators: John R. Bullock (AD-CAP), Miki Shirono (SMC), Takeshi Ichikawa (Harmony)\nPromotions: Ryuji Kato (加藤隆二) (SME), Mutsumi Matsumoto (松本睦) (SME)\nSpecial Thanks: Yukinobu Chida (Enix)\nVery Special Thanks: Enix\nMusic Copyright: Sugiyama Kobo\nLondon Philharmonic Orchestra\nViolin Solo: Duncan Riddell\nCello Solo: Robert Truman\nConductor: Koichi Sugiyama\nRecorded at CTS Studios, London, on May 21, 22, 26, 27, and 28, 1996",
+    "organizations": [
+        {
+            "link": "org/90",
+            "names": {
+                "en": "Sony Records",
+                "ja": "Sony Records",
+                "ja-latn": "Sony Records"
+            },
+            "role": "label"
+        },
+        {
+            "link": "org/63",
+            "names": {
+                "en": "Sony Music Entertainment (Japan) Inc.",
+                "ja": "株式会社ソニー・ミュージックエンタテインメント",
+                "ja-latn": "Sony Music Entertainment (Japan) Inc."
+            },
+            "role": "manufacturer"
+        }
+    ],
+    "performers": [
+        {
+            "link": "artist/116",
+            "names": {
+                "en": "London Philharmonic Orchestra"
+            }
+        },
+        {
+            "link": "artist/29902",
+            "names": {
+                "en": "Duncan Riddell"
+            }
+        },
+        {
+            "names": {
+                "en": "Robert Truman"
+            }
+        }
+    ],
+    "picture_full": "https://media.vgm.io/albums/54/6445/6445-1199218431.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/54/6445/6445-1199218431.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/54/6445/6445-1199218431.jpg",
+    "platforms": [
+        "SNES (Super Famicom)"
+    ],
+    "products": [
+        {
+            "link": "release/1702",
+            "names": {
+                "en": "Dragon Quest III: The Seeds of Salvation (SNES)",
+                "ja": "ドラゴンクエストIII: そして伝説へ…",
+                "ja-latn": "Dragon Quest III: Soshite Densetsu he..."
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/90",
+        "names": {
+            "en": "Sony Records",
+            "ja": "Sony Records",
+            "ja-latn": "Sony Records"
+        },
+        "role": "label"
+    },
+    "related": [
+        {
+            "catalog": "SVWC-7247",
+            "date": "2005-04-20",
+            "link": "album/4459",
+            "names": {
+                "en": "Symphonic Suite Dragon Quest III Into the Legen...",
+                "ja": "交響組曲 「ドラゴンクエストIII」 そして伝説へ...",
+                "ja-latn": "Koukyou Kumikyoku \"Dragon Quest III\" Soshite De..."
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICC-6322",
+            "date": "2009-10-07",
+            "link": "album/15778",
+            "names": {
+                "en": "Symphonic Suite Dragon Quest III Into the Legen...",
+                "ja": "交響組曲 「ドラゴンクエストIII」 そして伝説へ...",
+                "ja-latn": "Koukyou Kumikyoku \"Dragon Quest III\" Soshite De..."
+            },
+            "type": "game"
+        }
+    ],
+    "release_date": "1996-12-12",
+    "release_events": [],
+    "release_price": {
+        "currency": "JPY",
+        "price": 2800.0
+    },
+    "reprints": [
+        {
+            "catalog": "SVWC-7063",
+            "link": "album/4447",
+            "note": "Aug 23, 2000"
+        },
+        {
+            "catalog": "KICC-6316",
+            "link": "album/15769",
+            "note": "Oct 07, 2009"
+        }
+    ],
+    "stores": [],
+    "vgmdb_link": "https://vgmdb.net/album/6445?perpage=99999",
+    "votes": 0,
+    "websites": {
+        "Review": [
+            {
+                "link": "http://www.rpgfan.com/soundtracks/dq3ss/index.html",
+                "name": "RPGFan's Review"
+            },
+            {
+                "link": "http://www.soundtrackcentral.com/cds/dragonquest3_symphonicsuite.htm",
+                "name": "Soundtrack Central's review"
+            }
+        ]
+    }
+}

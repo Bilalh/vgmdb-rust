@@ -1,0 +1,183 @@
+{
+    "arrangers": [],
+    "catalog": "N/A",
+    "categories": [
+        "Game"
+    ],
+    "category": "Game",
+    "classification": "Original Soundtrack, Arrangement",
+    "composers": [
+        {
+            "link": "artist/138",
+            "names": {
+                "en": "Kenji Ito",
+                "ja": "伊藤賢治"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "https://media.vgm.io/albums/99/11999/11999-1271897866.jpg",
+            "medium": "https://medium-media.vgm.io/albums/99/11999/11999-1271897866.jpg",
+            "name": "Front",
+            "thumb": "https://thumb-media.vgm.io/albums/99/11999/11999-1271897866.jpg"
+        },
+        {
+            "full": "https://media.vgm.io/albums/99/11999/11999-1271897860.jpg",
+            "medium": "https://medium-media.vgm.io/albums/99/11999/11999-1271897860.jpg",
+            "name": "Disc",
+            "thumb": "https://thumb-media.vgm.io/albums/99/11999/11999-1271897860.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "13:40",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "Breath of MANA"
+                    },
+                    "track_length": "1:19"
+                },
+                {
+                    "names": {
+                        "English": "Prologue: Mana, Earth and Spirits"
+                    },
+                    "track_length": "2:44"
+                },
+                {
+                    "names": {
+                        "English": "Memorable Moment"
+                    },
+                    "track_length": "2:58"
+                },
+                {
+                    "names": {
+                        "English": "Burning Spirits"
+                    },
+                    "track_length": "4:24"
+                },
+                {
+                    "names": {
+                        "English": "Rising Sun (piano solo ver.)"
+                    },
+                    "track_length": "2:15"
+                }
+            ]
+        }
+    ],
+    "link": "album/11999",
+    "lyricists": [],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2009-02-11T10:27",
+        "edited_date": "2022-05-03T12:10",
+        "fetched_date": "2022-12-28T18:36",
+        "freedb": 4,
+        "ttl": 86400,
+        "visitors": 3529
+    },
+    "name": "Breath of MANA",
+    "names": {
+        "en": "Breath of MANA",
+        "ja": "Breath of MANA",
+        "ja-latn": "Breath of MANA"
+    },
+    "notes": "CD given as a preorder bonus for the game Dawn of Mana (Seiken Densetsu IV) in the USA.\nNotes from Parent Album:\nGiven away to those who pre-ordered Seiken Densetsu 4 in Japan.\nRising Sun (piano solo ver.) performed by Kenji Ito.",
+    "organizations": [
+        {
+            "link": "org/112",
+            "names": {
+                "en": "SQUARE ENIX CO., LTD.",
+                "ja": "株式会社スクウェア・エニックス",
+                "ja-latn": "SQUARE ENIX CO., LTD."
+            },
+            "role": "publisher"
+        }
+    ],
+    "performers": [
+        {
+            "link": "artist/138",
+            "names": {
+                "en": "Kenji Ito",
+                "ja": "伊藤賢治"
+            }
+        }
+    ],
+    "picture_full": "https://media.vgm.io/albums/99/11999/11999-1271897866.jpg",
+    "picture_small": "https://medium-media.vgm.io/albums/99/11999/11999-1271897866.jpg",
+    "picture_thumb": "https://thumb-media.vgm.io/albums/99/11999/11999-1271897866.jpg",
+    "platforms": [
+        "Sony PlayStation 2"
+    ],
+    "products": [
+        {
+            "link": "product/219",
+            "names": {
+                "en": "Dawn of Mana",
+                "ja": "聖剣伝説4",
+                "ja-latn": "Seiken Densetsu 4"
+            }
+        }
+    ],
+    "publish_format": "Commercial, Enclosure",
+    "publisher": {
+        "link": "org/112",
+        "names": {
+            "en": "SQUARE ENIX CO., LTD.",
+            "ja": "株式会社スクウェア・エニックス",
+            "ja-latn": "SQUARE ENIX CO., LTD."
+        },
+        "role": "publisher"
+    },
+    "related": [
+        {
+            "catalog": "SANC-0001",
+            "date": "2006-12-21",
+            "link": "album/4601",
+            "names": {
+                "en": "Breath of MANA Seiken Densetsu 4",
+                "ja": "Breath of MANA Seiken Densetsu 4",
+                "ja-latn": "Breath of MANA Seiken Densetsu 4"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "SQEX-10083~6",
+            "date": "2007-01-24",
+            "link": "album/3950",
+            "names": {
+                "en": "Seiken Densetsu 4 Original Soundtrack -Sanctuary-",
+                "ja": "聖剣伝説4 Original Soundtrack -Sanctuary-",
+                "ja-latn": "Seiken Densetsu 4 Original Soundtrack -Sanctuary-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SICC-816",
+            "date": "2008-02-06",
+            "link": "album/16485",
+            "names": {
+                "en": "image 7 emotional & relaxing",
+                "ja": "イマージュ7 エモーショナル＆リラクシング",
+                "ja-latn": "image 7 emotional & relaxing"
+            },
+            "type": "game"
+        }
+    ],
+    "release_date": "2007",
+    "release_events": [],
+    "release_price": {
+        "price": "Not for Sale"
+    },
+    "reprints": [
+        {
+            "catalog": "SANC-0001",
+            "link": "album/4601",
+            "note": ""
+        }
+    ],
+    "vgmdb_link": "https://vgmdb.net/album/11999?perpage=99999",
+    "votes": 0
+}
