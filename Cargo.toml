@@ -1,0 +1,25 @@
+[package]
+name = "vgmdb"
+version = "0.4.0"
+edition = "2021"
+
+authors = ["Bilal Syed Hussain <bilalshussain@gmail.com>"]
+description = "vgmdb api "
+homepage = "https://github.com/Bilalh/vgmdb-rust"
+repository= "https://github.com/Bilalh/vgmdb-rust"
+license = "Apache-2.0"
+readme = "Readme.md"
+keywords = ["vgmdb", "music", "m4a", "metadata", "itunes" ]
+
+[lib]
+name = "vgmdb"
+path = "src/lib.rs"
+
+[dependencies]
+anyhow = {version = "1.0.68", features = ["backtrace"]}  
+itertools = "0.10.5"
+reqwest = { version = "0.11.10"}
+serde = {version ="1.0.152", features = ["derive"]}
+serde_json = "1.0.91"
+test-case = "2.2.2"
+tokio = "1.21.2"
