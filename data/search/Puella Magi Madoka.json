@@ -1,0 +1,638 @@
+{
+    "link": "search/albums/Puella%20Magi%20Madoka",
+    "meta": {},
+    "query": "Puella Magi Madoka",
+    "results": {
+        "albums": [
+            {
+                "catalog": "ANZX-15552",
+                "category": "Enclosure/Promo",
+                "link": "album/94982",
+                "media_format": "CD",
+                "release_date": "2020-03-04",
+                "titles": {
+                    "en": "MAGIA RECORD 01 SPECIAL CD 1: ORIGINAL SOUND TRACK I",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 ORIGINAL SOUND TRACK 1",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden ORIGINAL SOUND TRACK 1"
+                }
+            },
+            {
+                "catalog": "ANZX-15554",
+                "category": "Enclosure/Promo",
+                "link": "album/94983",
+                "media_format": "CD",
+                "release_date": "2020-04-08",
+                "titles": {
+                    "en": "MAGIA RECORD 02 SPECIAL CD 2: VOCAL SONG MINI COLLECTION",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 スペシャルCD 2 ボーカルソングミニコレクション",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Special CD 2: Vocal Song Mini Collection"
+                }
+            },
+            {
+                "catalog": "ANZX-15556",
+                "category": "Enclosure/Promo",
+                "link": "album/94984",
+                "media_format": "CD",
+                "release_date": "2020-06-10",
+                "titles": {
+                    "en": "MAGIA RECORD 03 SPECIAL CD 3: ORIGINAL SOUND TRACK II",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 ORIGINAL SOUND TRACK 2",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden ORIGINAL SOUND TRACK 2"
+                }
+            },
+            {
+                "catalog": "ANZX-15558",
+                "category": "Enclosure/Promo",
+                "link": "album/94985",
+                "media_format": "CD",
+                "release_date": "2020-08-05",
+                "titles": {
+                    "en": "MAGIA RECORD 04 SPECIAL CD 4: ORIGINAL SOUND TRACK III",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 ORIGINAL SOUND TRACK 3",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden ORIGINAL SOUND TRACK 3"
+                }
+            },
+            {
+                "catalog": "ANZX-15560",
+                "category": "Enclosure/Promo",
+                "link": "album/94986",
+                "media_format": "CD",
+                "release_date": "2020-09-02",
+                "titles": {
+                    "en": "MAGIA RECORD 05 SPECIAL CD 5: ORIGINAL SOUND TRACK IV",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 ORIGINAL SOUND TRACK 4",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden ORIGINAL SOUND TRACK 4"
+                }
+            },
+            {
+                "catalog": "ANZX-15562",
+                "category": "Enclosure/Promo",
+                "link": "album/113468",
+                "media_format": "CD",
+                "release_date": "2021-11-24",
+                "titles": {
+                    "en": "MAGIA RECORD 2ND SEASON -THE EVE OF AWAKENING- ORIGINAL SOUND TRACK 1",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜- ORIGINAL SOUND TRACK 1",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya- ORIGINAL SOUND TRACK 1"
+                }
+            },
+            {
+                "catalog": "ANZX-15564",
+                "category": "Enclosure/Promo",
+                "link": "album/113469",
+                "media_format": "CD",
+                "release_date": "2021-12-22",
+                "titles": {
+                    "en": "MAGIA RECORD 2ND SEASON -THE EVE OF AWAKENING- ORIGINAL SOUND TRACK 2",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜- ORIGINAL SOUND TRACK 2",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya- ORIGINAL SOUND TRACK 2"
+                }
+            },
+            {
+                "catalog": "ANZX-15566",
+                "category": "Enclosure/Promo",
+                "link": "album/113470",
+                "media_format": "CD",
+                "release_date": "2022-01-26",
+                "titles": {
+                    "en": "MAGIA RECORD 2ND SEASON -THE EVE OF AWAKENING- ORIGINAL SOUND TRACK 3",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜- ORIGINAL SOUND TRACK 3",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya- ORIGINAL SOUND TRACK 3"
+                }
+            },
+            {
+                "catalog": "ANZX-15568",
+                "category": "Enclosure/Promo",
+                "link": "album/119239",
+                "media_format": "CD",
+                "release_date": "2022-05-25",
+                "titles": {
+                    "en": "MAGIA RECORD FINAL SEASON -DAWN OF A SHALLOW DREAM- ORIGINAL SOUND TRACK 1",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁- ORIGINAL SOUND TRACK 1",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final SEASON -Asaki Yume no Akatsuki- ORIGINAL SOUND TRACK 1"
+                }
+            },
+            {
+                "catalog": "ANZX-15570",
+                "category": "Enclosure/Promo",
+                "link": "album/119335",
+                "media_format": "CD",
+                "release_date": "2022-06-29",
+                "titles": {
+                    "en": "MAGIA RECORD FINAL SEASON -DAWN OF A SHALLOW DREAM- ORIGINAL SOUND TRACK 2",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁- ORIGINAL SOUND TRACK 2",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final SEASON -Asaki Yume no Akatsuki- ORIGINAL SOUND TRACK 2"
+                }
+            },
+            {
+                "catalog": "SVWC-70545~6",
+                "category": "Game",
+                "link": "album/112481",
+                "media_format": "2 CD",
+                "release_date": "2021-08-25",
+                "titles": {
+                    "en": "MAGIA RECORD PUELLA MAGI MADOKA MAGICA SIDE STORY Music Collection 2",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 Music Collection 2",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Music Collection 2"
+                }
+            },
+            {
+                "catalog": "SVWC-70359~60",
+                "category": "Game",
+                "link": "album/78441",
+                "media_format": "2 CD",
+                "release_date": "2018-08-22",
+                "titles": {
+                    "en": "MAGIA RECORD PUELLA MAGI MADOKA MAGICA SIDE STORY Music Collection.",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 Music Collection",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Music Collection"
+                }
+            },
+            {
+                "catalog": "N/A",
+                "category": "Enclosure/Promo",
+                "link": "album/106496",
+                "media_format": "CD",
+                "release_date": "2021-03-16",
+                "titles": {
+                    "en": "Magia Record Puella Magi Madoka Magica Side Story Original Soundtrack CD",
+                    "ja": "Magia Record Puella Magi Madoka Magica Side Story Original Soundtrack CD",
+                    "ja-latn": "Magia Record Puella Magi Madoka Magica Side Story Original Soundtrack CD"
+                }
+            },
+            {
+                "catalog": "VVXX-01055",
+                "category": "Animation",
+                "link": "album/113295",
+                "media_format": "Digital",
+                "release_date": "2021-08-08",
+                "titles": {
+                    "en": "Magia Record: Puella Magi Madoka☆Magica Side Story 2nd SEASON -Kakusei Zenya- Theme Song Collection",
+                    "ja": "TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-」Theme Song Collection",
+                    "ja-latn": "TV Anime \"Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-\" Theme Song Collection"
+                }
+            },
+            {
+                "catalog": "SBCV-80091",
+                "category": "Enclosure/Promo",
+                "link": "album/51689",
+                "media_format": "CD",
+                "release_date": "2011-06-22",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica \"Mahou Shoujotachi no Ochakai\"",
+                    "ja": "魔法少女まどか☆マギカ『魔法少女たちのお茶会』",
+                    "ja-latn": "Puella Magi Madoka Magica \"Mahou Shoujotachi no Ochakai\""
+                }
+            },
+            {
+                "catalog": "SVWC-7980~1",
+                "category": "Animation",
+                "link": "album/42430",
+                "media_format": "2 CD",
+                "release_date": "2013-12-25",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Music Collection",
+                    "ja": "魔法少女まどか☆マギカ Music Collection",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica Music Collection"
+                }
+            },
+            {
+                "catalog": "AOA-1201L",
+                "category": "Enclosure/Promo",
+                "link": "album/39129",
+                "media_format": "CD",
+                "release_date": "2012-02-14",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Original Soundtrack I",
+                    "ja": "Puella Magi Madoka Magica Original Soundtrack I",
+                    "ja-latn": "Puella Magi Madoka Magica Original Soundtrack I"
+                }
+            },
+            {
+                "catalog": "AOA-1202L",
+                "category": "Enclosure/Promo",
+                "link": "album/39145",
+                "media_format": "CD",
+                "release_date": "2012-04-10",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Original Soundtrack II",
+                    "ja": "Puella Magi Madoka Magica Original Soundtrack II",
+                    "ja-latn": "Puella Magi Madoka Magica Original Soundtrack II"
+                }
+            },
+            {
+                "catalog": "AOA-1203L",
+                "category": "Enclosure/Promo",
+                "link": "album/39146",
+                "media_format": "CD",
+                "release_date": "2012-06-12",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Original Soundtrack III",
+                    "ja": "Puella Magi Madoka Magica Original Soundtrack III",
+                    "ja-latn": "Puella Magi Madoka Magica Original Soundtrack III"
+                }
+            },
+            {
+                "catalog": "ANZX-9122",
+                "category": "Enclosure/Promo",
+                "link": "album/30302",
+                "media_format": "CD",
+                "release_date": "2011-04-27",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'",
+                    "ja": "魔法少女まどか☆マギカ ドラマ CD メモリーズオブユー",
+                    "ja-latn": "Puella Magi Madoka Magica Special CD 1 Drama CD 'Memories of you'"
+                }
+            },
+            {
+                "catalog": "ANZX-9124",
+                "category": "Enclosure/Promo",
+                "link": "album/56387",
+                "media_format": "CD",
+                "release_date": "2012-03-14",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special CD 1 Original Soundtrack I",
+                    "ja": "Puella Magi Madoka Magica Special CD 1 Original Soundtrack I",
+                    "ja-latn": "Puella Magi Madoka Magica Special CD 1 Original Soundtrack I"
+                }
+            },
+            {
+                "catalog": "ANZX-9124",
+                "category": "Enclosure/Promo",
+                "link": "album/24725",
+                "media_format": "CD",
+                "release_date": "2011-05-25",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I",
+                    "ja": "魔法少女まどか☆マギカ オリジナルサウンドトラックCD Vol.1",
+                    "ja-latn": "Puella Magi Madoka Magica Special CD 2 Original Soundtrack I"
+                }
+            },
+            {
+                "catalog": "ANZX-9128",
+                "category": "Enclosure/Promo",
+                "link": "album/56388",
+                "media_format": "CD",
+                "release_date": "2012-04-18",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special CD 2 Original Soundtrack II",
+                    "ja": "Puella Magi Madoka Magica Special CD 2 Original Soundtrack II",
+                    "ja-latn": "Puella Magi Madoka Magica Special CD 2 Original Soundtrack II"
+                }
+            },
+            {
+                "catalog": "ANZX-9126",
+                "category": "Enclosure/Promo",
+                "link": "album/39132",
+                "media_format": "CD",
+                "release_date": "2011-06-22",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special CD 3 Original Drama CD 'Sunny Day Life'",
+                    "ja": "魔法少女まどか☆マギカ ドラマ CD サニーデイライフ",
+                    "ja-latn": "Puella Magi Madoka Magica Special CD 3 Original Drama CD 'Sunny Day Life'"
+                }
+            },
+            {
+                "catalog": "ANZX-9132",
+                "category": "Enclosure/Promo",
+                "link": "album/56389",
+                "media_format": "CD",
+                "release_date": "2012-05-16",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special CD 3 Original Soundtrack III",
+                    "ja": "Puella Magi Madoka Magica Special CD 3 Original Soundtrack III",
+                    "ja-latn": "Puella Magi Madoka Magica Special CD 3 Original Soundtrack III"
+                }
+            },
+            {
+                "catalog": "ANZX-9128",
+                "category": "Enclosure/Promo",
+                "link": "album/26837",
+                "media_format": "CD",
+                "release_date": "2011-07-27",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special CD 4 Original Soundtrack II",
+                    "ja": "魔法少女まどか☆マギカ オリジナルサウンドトラックCD Vol.2",
+                    "ja-latn": "Puella Magi Madoka Magica Special CD 4 Original Soundtrack II"
+                }
+            },
+            {
+                "catalog": "ANZX-9130",
+                "category": "Enclosure/Promo",
+                "link": "album/39170",
+                "media_format": "CD",
+                "release_date": "2011-08-24",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'",
+                    "ja": "魔法少女まどか☆マギカ ドラマ CD フェアウェル・ストーリー",
+                    "ja-latn": "Puella Magi Madoka Magica Special CD 5 Drama CD 'Farewell Story'"
+                }
+            },
+            {
+                "catalog": "ANZX-9132",
+                "category": "Enclosure/Promo",
+                "link": "album/28200",
+                "media_format": "CD",
+                "release_date": "2011-09-21",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special CD 6 Original Soundtrack III",
+                    "ja": "魔法少女まどか☆マギカ オリジナルサウンドトラックCD Vol.3",
+                    "ja-latn": "Puella Magi Madoka Magica Special CD 6 Original Soundtrack III"
+                }
+            },
+            {
+                "catalog": "ANXC-0006",
+                "category": "Enclosure/Promo",
+                "link": "album/110939",
+                "media_format": "CD",
+                "release_date": "2011-12-29",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica Special Talk CD 2011 Winter",
+                    "ja": "魔法少女まどか☆マギカ Special Talk CD 2011 Winter",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica Special Talk CD 2011 Winter"
+                }
+            },
+            {
+                "catalog": "AOA-4904L-WR2",
+                "category": "Enclosure/Promo",
+                "link": "album/50448",
+                "media_format": "CD",
+                "release_date": "2015-04-07",
+                "titles": {
+                    "en": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion- ORIGINAL SOUNDTRACK CD",
+                    "ja": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion- ORIGINAL SOUNDTRACK CD",
+                    "ja-latn": "PUELLA MAGI MADOKA MAGICA THE MOVIE -Rebellion- ORIGINAL SOUNDTRACK CD"
+                }
+            },
+            {
+                "catalog": "ANZX-3533",
+                "category": "Enclosure/Promo",
+                "link": "album/43724",
+                "media_format": "CD",
+                "release_date": "2014-04-02",
+                "titles": {
+                    "en": "PUELLA MAGI MADOKA MAGICA THE MOVIE: REBELLION ORIGINAL SOUNDTRACK",
+                    "ja": "劇場版 魔法少女まどか☆マギカ ［新編］叛逆の物語 オリジナルサウンドトラック",
+                    "ja-latn": "Gekijouban Mahou Shoujo Madoka☆Magica [Shinpen] Hangyaku no Monogatari Original Soundtrack"
+                }
+            },
+            {
+                "catalog": "ANI-9040",
+                "category": "Enclosure/Promo",
+                "link": "album/56386",
+                "media_format": "CD",
+                "release_date": "2014-12-18",
+                "titles": {
+                    "en": "PUELLA MAGI MADOKA MAGICA THE MOVIE: REBELLION ORIGINAL SOUNDTRACK",
+                    "ja": "PUELLA MAGI MADOKA MAGICA THE MOVIE: REBELLION ORIGINAL SOUNDTRACK",
+                    "ja-latn": "PUELLA MAGI MADOKA MAGICA THE MOVIE: REBELLION ORIGINAL SOUNDTRACK"
+                }
+            },
+            {
+                "catalog": "CJVK-0006",
+                "category": "Doujin/Fanmade",
+                "link": "album/27170",
+                "media_format": "CD",
+                "release_date": "2011-07-10",
+                "titles": {
+                    "en": "Puella Magi Madoka Magica tribute \"sǝʌol\"",
+                    "ja": "Puella Magi Madoka Magica tribute \"sǝʌol\"",
+                    "ja-latn": "Puella Magi Madoka Magica tribute \"sǝʌol\""
+                }
+            },
+            {
+                "catalog": "SVWC-70281~2",
+                "category": "Animation",
+                "link": "album/68793",
+                "media_format": "CD + DVD",
+                "release_date": "2017-08-09",
+                "titles": {
+                    "en": "PUELLA MAGI MADOKA MAGICA ULTIMATE BEST",
+                    "ja": "魔法少女まどか☆マギカ Ultimate Best",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica Ultimate Best"
+                }
+            },
+            {
+                "catalog": "SVWC-70543",
+                "category": "Game",
+                "link": "album/111823",
+                "media_format": "CD",
+                "release_date": "2021-07-28",
+                "titles": {
+                    "en": "PUELLA MAGI MADOKA MAGICA ULTIMATE BEST",
+                    "ja": "魔法少女まどか☆マギカ Ultimate Best",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica Ultimate Best"
+                }
+            },
+            {
+                "catalog": "SVWJ-70281~2",
+                "category": "Animation",
+                "link": "album/71158",
+                "media_format": "2 Vinyl",
+                "release_date": "2017-11-03",
+                "titles": {
+                    "en": "PUELLA MAGI MADOKA MAGICA ULTIMATE BEST [Analog Edition]",
+                    "ja": "魔法少女まどか☆マギカ Ultimate Best [アナログ盤]",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica Ultimate Best [Analog Edition]"
+                }
+            },
+            {
+                "catalog": "ANXC-0001",
+                "category": "Enclosure/Promo",
+                "link": "album/110948",
+                "media_format": "CD",
+                "release_date": "2011-08-12",
+                "titles": {
+                    "en": "Puella Magi Madoka☆Karuta Karuta Yomiage CD",
+                    "ja": "魔法少女まどか☆カルタ かるた読み上げCD",
+                    "ja-latn": "Mahou Shoujo Madoka☆Karuta Karuta Yomiage CD"
+                }
+            },
+            {
+                "catalog": "ULJS-00429",
+                "category": "Enclosure/Promo",
+                "link": "album/45379",
+                "media_format": "Blu-ray",
+                "release_date": "2012-03-15",
+                "titles": {
+                    "en": "Puella Magi Madoka☆Magica Portable Original Soundtrack",
+                    "ja": "魔法少女まどか☆マギカ ポータブル オリジナルサウンドトラック",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica Portable Original Soundtrack"
+                }
+            },
+            {
+                "catalog": "N/A",
+                "category": "Enclosure/Promo",
+                "link": "album/41682",
+                "media_format": "CD",
+                "release_date": "2013-12-19",
+                "titles": {
+                    "en": "Puella Magi Madoka☆Magica The Battle Pentagram ORIGINAL SOUND TRACK",
+                    "ja": "劇場版 魔法少女まどか☆マギカ The Battle Pentagram ORIGINAL SOUND TRACK",
+                    "ja-latn": "Gekijouban Mahou Shoujo Madoka☆Magica The Battle Pentagram ORIGINAL SOUND TRACK"
+                }
+            },
+            {
+                "catalog": "ANZX-3133",
+                "category": "Enclosure/Promo",
+                "link": "album/38449",
+                "media_format": "CD",
+                "release_date": "2013-07-24",
+                "titles": {
+                    "en": "PUELLA MAGI MADOKA☆MAGICA THE MOVIE Original Soundtrack",
+                    "ja": "劇場版 魔法少女まどか☆マギカ ORIGINAL SOUNDTRACK",
+                    "ja-latn": "Gekijouban Mahou Shoujo Madoka☆Magica ORIGINAL SOUNDTRACK"
+                }
+            },
+            {
+                "catalog": "ANZX-3133",
+                "category": "Enclosure/Promo",
+                "link": "album/56385",
+                "media_format": "CD",
+                "release_date": "2013-12-23",
+                "titles": {
+                    "en": "PUELLA MAGI MADOKA☆MAGICA THE MOVIE ORIGINAL SOUNDTRACK",
+                    "ja": "PUELLA MAGI MADOKA☆MAGICA THE MOVIE ORIGINAL SOUNDTRACK",
+                    "ja-latn": "PUELLA MAGI MADOKA☆MAGICA THE MOVIE ORIGINAL SOUNDTRACK"
+                }
+            }
+        ],
+        "artists": [],
+        "orgs": [],
+        "products": [
+            {
+                "link": "product/5237",
+                "names": {
+                    "en": "Magia Record: Puella Magi Madoka☆Magica [Side Story]",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden"
+                },
+                "type": "Game"
+            },
+            {
+                "link": "product/7613",
+                "names": {
+                    "en": "Magia Record: Puella Magi Madoka☆Magica Side Story",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden"
+                },
+                "type": "Animation"
+            },
+            {
+                "link": "product/10505",
+                "names": {
+                    "en": "Magia Record: Puella Magi Madoka☆Magica Side Story FINAL SEASON -Dawn of a Shallow Dream-",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final SEASON -Asaki Yume no Akatsuki-"
+                },
+                "type": "Animation"
+            },
+            {
+                "link": "product/10462",
+                "names": {
+                    "en": "Magia Record: Puella Magi Madoka☆Magica Side Story Season 2 -The Eve of Awakening-",
+                    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-",
+                    "ja-latn": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON -Kakusei Zenya-"
+                },
+                "type": "Animation"
+            },
+            {
+                "link": "product/8776",
+                "names": {
+                    "en": "Puella Magi Madoka Magica Concept movie",
+                    "ja": "魔法少女まどか☆マギカ コンセプトムービー",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica Concept Movie"
+                },
+                "type": "Animation"
+            },
+            {
+                "link": "product/893",
+                "names": {
+                    "en": "Puella Magi Madoka☆Magica",
+                    "ja": "魔法少女まどか☆マギカ",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica"
+                },
+                "type": "Animation"
+            },
+            {
+                "link": "product/1945",
+                "names": {
+                    "en": "Puella Magi Madoka☆Magica",
+                    "ja": "魔法少女まどか☆マギカ",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica"
+                },
+                "type": "Franchise"
+            },
+            {
+                "link": "product/3889",
+                "names": {
+                    "en": "Puella Magi Madoka☆Magica Portable",
+                    "ja": "魔法少女まどか☆マギカ ポータブル",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica Portable"
+                },
+                "type": "Game"
+            },
+            {
+                "link": "product/3890",
+                "names": {
+                    "en": "Puella Magi Madoka☆Magica The Battle Pentagram",
+                    "ja": "劇場版 魔法少女まどか☆マギカ The Battle Pentagram",
+                    "ja-latn": "Gekijouban Mahou Shoujo Madoka☆Magica The Battle Pentagram"
+                },
+                "type": "Game"
+            },
+            {
+                "link": "product/10295",
+                "names": {
+                    "en": "Puella Magi Madoka☆Magica The Movie <Walpurgis no Kaiten>",
+                    "ja": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+                    "ja-latn": "Gekijouban Mahou Shoujo Madoka☆Magica <Walpurgis no Kaiten>"
+                },
+                "type": "Animation"
+            },
+            {
+                "link": "product/1946",
+                "names": {
+                    "en": "Puella Magi Madoka☆Magica The Movie Part I: Beginnings",
+                    "ja": "劇場版 魔法少女まどかマギカ [前編] 始まりの物語",
+                    "ja-latn": "Gekijouban Mahou Shoujo Madoka☆Magica [Zenpen] Hajimari no Monogatari"
+                },
+                "type": "Animation"
+            },
+            {
+                "link": "product/1947",
+                "names": {
+                    "en": "Puella Magi Madoka☆Magica The Movie Part II: Eternal",
+                    "ja": "劇場版 魔法少女まどかマギカ [後編] 永遠の物語",
+                    "ja-latn": "Gekijouban Mahou Shoujo Madoka☆Magica [Kouhen] Eien no Monogatari"
+                },
+                "type": "Animation"
+            },
+            {
+                "link": "product/2150",
+                "names": {
+                    "en": "Puella Magi Madoka☆Magica The Movie Part III: Rebellion",
+                    "ja": "劇場版 魔法少女まどかマギカ [新編] 叛逆の物語",
+                    "ja-latn": "Gekijouban Mahou Shoujo Madoka☆Magica [Shinpen] Hangyaku no Monogatari"
+                },
+                "type": "Animation"
+            },
+            {
+                "link": "product/8768",
+                "names": {
+                    "en": "Puella Magi Madoka☆Magica TPS",
+                    "ja": "魔法少女まどか☆マギカ TPS",
+                    "ja-latn": "Mahou Shoujo Madoka☆Magica TPS"
+                },
+                "type": "Game"
+            }
+        ]
+    },
+    "sections": [
+        "albums",
+        "artists",
+        "orgs",
+        "products"
+    ],
+    "vgmdb_link": "https://vgmdb.net/search?q=Puella%20Magi%20Madoka"
+}
